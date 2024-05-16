@@ -76,22 +76,19 @@ def predict():
             "shopping",
         ]
     ]
-    Xp = merged_df[["place_type", "city_id", "Avg rating"]]
+    Xp = merged_df[["place_type", "Avg rating", "price"]]
 
     label_encoder_gender = LabelEncoder()
     label_encoder_country = LabelEncoder()
     label_encoder_place_type = LabelEncoder()
-    label_encoder_city = LabelEncoder()
 
     label_encoder_gender.fit(Xu["gender"])
     label_encoder_country.fit(Xu["country"])
     label_encoder_place_type.fit(Xp["place_type"])
-    label_encoder_city.fit(Xp["city_id"])
 
     Xu["gender"] = label_encoder_gender.transform(Xu["gender"])
     Xu["country"] = label_encoder_country.transform(Xu["country"])
     Xp["place_type"] = label_encoder_place_type.transform(Xp["place_type"])
-    Xp["city_id"] = label_encoder_city.transform(Xp["city_id"])
 
     # scale the data
     scalerItem = StandardScaler()
@@ -125,7 +122,7 @@ def predict():
     )
 
     # generate and replicate the user vector to match the number of places in the data set.
-    user_vecs = np.tile(user_vec, (671, 1))
+    user_vecs = np.tile(user_vec, (685, 1))
     user_vecs.shape
 
     new_places_df = places
@@ -133,9 +130,8 @@ def predict():
     new_places_df["place_type"] = label_encoder_place_type.transform(
         new_places_df["place_type"]
     )
-    new_places_df["city_id"] = label_encoder_city.transform(new_places_df["city_id"])
 
-    item_vecs = np.array(places[["place_type", "city_id", "Avg rating"]])
+    item_vecs = np.array(places[["place_type", "Avg rating", "price"]])
 
     # scale our user and item vectors
     suser_vecs = scalerUser.transform(user_vecs)
@@ -153,7 +149,6 @@ def predict():
     p_sorted["place_type"] = label_encoder_place_type.inverse_transform(
         p_sorted["place_type"]
     )
-    p_sorted["city_id"] = label_encoder_city.inverse_transform(p_sorted["city_id"])
 
     # add the city_name
     city_mapping = {1: "roma", 2: "milan", 3: "napoli", 4: "florence", 5: "venice"}
@@ -168,11 +163,13 @@ def predict():
     needed_df = pd.DataFrame()
     needed_df["id"] = p_sorted["id"]
     needed_df["name"] = p_sorted["name"]
-    needed_df["cityId"] = p_sorted["cityId"]
     needed_df["placeType"] = p_sorted["placeType"]
     needed_df["cityName"] = p_sorted["cityName"]
     needed_df["predictedRating"] = p_sorted["predictedRating"]
     needed_df["time"] = p_sorted["time"].fillna(0)
+    needed_df["foodType"] = p_sorted["food type"].fillna(0)
+
+    needed_df = needed_df.fillna(0)
 
     # Return the predictions as a JSON response
     return jsonify(needed_df.to_dict(orient="records"))

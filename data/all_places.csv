@@ -245,431 +245,445 @@ Traditional Venetian tavern with a snack counter offering up a host of dishes, i
 242,La Bottega del Buon Caff•À?,"Lungarno Benvenuto Cellini, 69r",4,43.53874627376364 11.252631795675516,Fine dining restaurant offering a refined menu of contemporary Italian cuisine.,,3,traditional,6,restaurant
 243,Osteria de' Benci,"Via de' Benci, 13r",4,43.768379809882276  11.260123202027252,Traditional osteria serving Tuscan dishes and an excellent selection of wines.,,4,sea food,18,restaurant
 244,Konnubio,"Via dei Conti, 8",4,43.77440283473441  11.253275054166652,Modern restaurant with a creative menu featuring Italian and international flavors.,,5,traditional,10,restaurant
-245,Colosseum,"Piazza del Colosseo, 1, 00184 Roma RM, Italy",1,41.89037789425863 12.49227381074512,"The Colosseum is an ancient amphitheater located in Rome, Italy. It is one of the most iconic landmarks of the Roman Empire and a popular tourist attraction.",2,,,42,old
-246,Roman Forum,"Via della Salara Vecchia, 5/6, 00186 Roma RM, Italy",1,41.89267790743491 12.485303537730914,The Roman Forum is a rectangular plaza surrounded by the ruins of several important ancient government buildings. It served as the center of Roman public life for centuries.,2,,,55,old
-247,Pantheon,"Piazza della Rotonda, 00186 Roma RM, Italy",1,41.89873854344063 12.476787064716968,"The Pantheon is a former Roman temple and now a church. It is known for its impressive dome and the oculus in the center, which allows natural light to enter the building.",3,,,12,old
-248,Trevi Fountain,"Piazza di Trevi, 00187 Roma RM, Italy",1,41.90106521310689 12.483337318417298,The Trevi Fountain is a famous Baroque fountain in Rome. It is known for its stunning sculptures and is a popular spot for visitors to throw coins into the water.,3,,,51,old
-249,Vatican City,Vatican City,1,41.90383220521926 12.452619081233724,"Vatican City is an independent city-state surrounded by Rome, Italy. It is the spiritual and administrative headquarters of the Roman Catholic Church and home to St. Peter's Basilica and the Vatican Museums.",5,,,42,old
-250,Spanish Steps,"Piazza di Spagna, 00187 Roma RM, Italy",1,41.90613628317672 12.482754345403203,"The Spanish Steps is a famous staircase in Rome, connecting the Piazza di Spagna at the bottom with the TrinitÌÄåÊ dei Monti church at the top. It is a popular meeting point and gathering place.",3,,,28,old
-251,Castel Sant'Angelo,"Lungotevere Castello, 50, 00193 Roma RM, Italy",1,41.903238845697494 12.466318910745905,"Castel Sant'Angelo is a fortress located on the right bank of the Tiber River in Rome. It has served various purposes throughout history, including as a mausoleum, a castle, and a museum.",4,,,17,old
-252,Palatine Hill,"Via di San Gregorio, 00186 Roma RM, Italy",1,41.89067915447399 12.48755174110535,Palatine Hill is one of the seven hills of Rome and is considered the centermost of the famous Seven Hills of Rome. It offers panoramic views of the Roman Forum and the Circus Maximus.,5,,,27,old
-253,Baths of Caracalla,"Viale delle Terme di Caracalla,52, 00153 Roma RM, Italy",1,41.87915799439464 12.492385751222889,The Baths of Caracalla were ancient Roman public baths built during the reign of Emperor Caracalla. They were one of the largest and most impressive thermal complexes in ancient Rome.,2,,,31,old
-254,Piazza Navona,"Piazza Navona, 00186 Roma RM, Italy",1,41.8992680495627 12.473055380059884,"Piazza Navona is a beautiful square in Rome, famous for its Baroque architecture and stunning fountains. It is a lively gathering place and a hub of activity with numerous cafes and street performers.",4,,,17,old
-255,Circus Maximus,"Via del Circo Massimo, 00186 Roma RM, Italy",1,41.886333054191944 12.485154953073383,"Circus Maximus is an ancient Roman chariot racing stadium and entertainment venue. It was the largest stadium in ancient Rome and could accommodate over 150,000 spectators.",4,,,15,old
-256,Capitoline Hill,"Piazza del Campidoglio, 00186 Roma RM, Italy",1,41.89454118023064 12.483145121603664,"Capitoline Hill is one of the seven hills of Rome and was the citadel of the ancient city. It now houses the Capitoline Museums, which showcase a vast collection of ancient art and artifacts.",3,,,20,old
-257,Ara Pacis,"Lungotevere in Augusta, 00186 Roma RM, Italy",1,41.905165983511274 12.475265522388867,"The Ara Pacis is an ancient altar dedicated to the Roman goddess of peace, Pax. It is considered one of the most important works of Roman sculpture and is housed in a modern museum building.",2,,,10,old
-258,Basilica of Santa Maria Maggiore,"Piazza di Santa Maria Maggiore, 42, 00185 Roma RM, Italy",1,41.89773433134623 12.498386937731235,The Basilica of Santa Maria Maggiore is one of the major basilicas in Rome and is dedicated to the Virgin Mary. It is known for its beautiful mosaics and stunning interior.,3,,,5,old
-259,Palazzo Barberini,"Via delle Quattro Fontane, 13, 00184 Roma RM, Italy",1,41.903294089802266 12.489944012595991,"Palazzo Barberini is a palace in Rome that houses the Galleria Nazionale d'Arte Antica, an art gallery with a vast collection of paintings, sculptures, and other artworks.",5,,,25,old
-260,Campo de' Fiori,"Campo de' Fiori, 00186 Roma RM, Italy",1,41.89553744984559 12.472223453073946,"Campo de' Fiori is a lively square in Rome known for its bustling market during the day and vibrant nightlife. It is surrounded by restaurants, cafes, and historic buildings.",5,,,0,old
-261,Santa Maria in Trastevere,"Piazza di Santa Maria in Trastevere, 00153 Roma RM, Italy",1,41.88959680099575 12.469814637730664,Santa Maria in Trastevere is one of the oldest churches in Rome and is located in the charming Trastevere neighborhood. It is known for its beautiful mosaics and stunning interior.,4,,,10,old
-262,"Pietre d'inciampo in memoria di Tranquillo di Veroli, Marco di Veroli","Largo Arenula, 26, 00186 Roma RM, Italy",1,41.894588679167754 12.476140037731035,"The Stolpersteine, also known as stumbling stones, are small metal plaques placed in the urban fabric of certain European cities to commemorate the victims of the Holocaust. This initiative was created by German artist Gunter Demnig.
+245,Quinto Gelateria,"Via di Tor Millina, 15, 00186 Roma RM, Italy",1,41.89944116756968 12.472104031825918,"Snug, established shop making ice cream, plus sweet crêpes, fruit cups & smoothies, to take away.",,4,dessert,7,restaurant
+246,Creperia Michelangelo,"Viale dei Bastioni di Michelangelo, 3, 00192 Roma RM, Italy",1,"41.90655360617626, 12.456385951224657","Creperia Michelangelo in Rome, Italy, offers a delightful selection of sweet and savory crêpes made fresh to order. Visitors praise the friendly service, affordable prices, and extensive menu.",,5,dessert,8,restaurant
+247,Giulio Terrinoni,"Vicolo del Malpasso, 9, 00186 Roma RM, Italy",1,41.89772094062539 12.467566106041346,"Tasting menus of inventive modern Italian seafood, in a sleek, minimalist space with a courtyard.",,5,fine dinning,30,restaurant
+248,Life Ristorante,"Via della Vite, 28, 00187 Roma RM, Italy",1,41.90424093818848 12.480535868744537,"Sleek, upscale Mediterranean fine dining restaurant specializing in meat, lobster & truffle dishes.",,4,fine dinning,32,restaurant
+249,Ma Che Buono,"C.so Lodi, 1, 20135 Milano MI, Italy",2,45.45229923926904 9.203504264658864,"Ma Che Buono is a charming café and pastry shop located in Milan, Italy. They offer traditional and modern cakes, micro-cakes, and a delightful selection of coffee.",,4,dessert,10,restaurant
+250,Pasticceria Sissi,"P.za Risorgimento, 6, 20129 Milano MI, Italy",2,45.46993799422699 9.20881839617324,"Tiny, pink-walled bakery/cafe hung with vintage prints, popular for cappuccino & croissants.",,5,dessert,8,restaurant
+251,AALTO,"Piazza Alvar Aalto, 20124 Milano MI, Italy",2,45.48430150968346 9.193467574978175,"Ambitious Italian-Japanese fusion cuisine in an upscale, contemporary dining room.",,5,fine dinning,40,restaurant
+252,Seta,"Via Monte di Pietà, 18, 20121 Milano MI, Italy",2,45.47214458673872 9.191407638519845,"Creative, contemporary takes on Italian cuisine, served in a sleek room with turquoise accents.",,4,fine dinning,45,restaurant
+253,Pasticceria Calemma Dolci Momenti,"Vico Lungo del Gelso, 52, 80132 Napoli NA, Italy",3,40.84059366909775 14.247483306254022,"Pasticceria Calemma Dolci Momenti in Naples, Italy, is a delightful pastry shop located in the heart of the Quartieri Spagnoli. They offer artisanal pastries, excellent coffee, and aperitifs from 3:00 PM to 8:30 PM daily.",,5,dessert,6,restaurant
+254,Terrazza Calabritto,"Piazza Vittoria, 1, 80121 Napoli NA, Italy",3,40.83395451602328 14.241338168174844,"Terrazza Calabritto in Naples, Italy, offers an exceptional culinary experience where traditional Neapolitan flavors intertwine with modern techniques. Each dish is a captivating narrative, stimulating the imagination through flavor combinations and familiar scents that evoke childhood memories. ",,4,fine dinning,30,restaurant
+255,B. ICE,"Borgo Ognissanti, 150/r, 50123 Firenze FI, Italy",4,43.774819310338835 11.243058068744542,"a delightful ice cream shop located at Borgo Ognissanti 150/r, Florence, Italy. Known for its homemade gelato, this neighborhood gem offers a variety of flavors made on-site. Visitors rave about the hazelnut, pistachio, and pomegranate mint options, making it a must-visit spot for ice cream enthusiasts1. If you’re in Florence, don’t miss out on this tasty treat!",,3,dessert,4,restaurant
+256,Saporium Firenze,"Lungarno Benvenuto Cellini, 63/R, 50125 Firenze FI, Italy",4,43.7649454036614 11.265484507373015,Elevated Italian tasting menus & Tuscan wines in an opulently designed dining room.,,4,fine dinning,25,restaurant
+257,GROM,"Campo S. Barnaba, 2761, 30123 Venezia VE, Italy",5,45.433498281998226 12.325035114773186,"GROM is an exceptional gluten-free ice cream shop. This delightful establishment offers a dedicated gluten-free menu, including gelato, desserts, and ice cream cones. Visitors rave about the homemade waffle cones, pistachio, and hazelnut gelato options, making it a must-visit spot for those with dietary restrictions1.",,5,dessert,3,restaurant
+258,Al Covo,"Campiello de la Pescaria, 3968, 30122 Venezia VE, Italy",5,45.43492387001262 12.34780366080183,"Refined, updated Venetian classics in a charming, rustic-style restaurant, with outside tables.",,4,fine dinning,50,restaurant
+259,Colosseum,"Piazza del Colosseo, 1, 00184 Roma RM, Italy",1,41.89037789425863 12.49227381074512,"The Colosseum is an ancient amphitheater located in Rome, Italy. It is one of the most iconic landmarks of the Roman Empire and a popular tourist attraction.",2,,,42,old
+260,Roman Forum,"Via della Salara Vecchia, 5/6, 00186 Roma RM, Italy",1,41.89267790743491 12.485303537730914,The Roman Forum is a rectangular plaza surrounded by the ruins of several important ancient government buildings. It served as the center of Roman public life for centuries.,2,,,55,old
+261,Pantheon,"Piazza della Rotonda, 00186 Roma RM, Italy",1,41.89873854344063 12.476787064716968,"The Pantheon is a former Roman temple and now a church. It is known for its impressive dome and the oculus in the center, which allows natural light to enter the building.",3,,,12,old
+262,Trevi Fountain,"Piazza di Trevi, 00187 Roma RM, Italy",1,41.90106521310689 12.483337318417298,The Trevi Fountain is a famous Baroque fountain in Rome. It is known for its stunning sculptures and is a popular spot for visitors to throw coins into the water.,3,,,51,old
+263,Vatican City,Vatican City,1,41.90383220521926 12.452619081233724,"Vatican City is an independent city-state surrounded by Rome, Italy. It is the spiritual and administrative headquarters of the Roman Catholic Church and home to St. Peter's Basilica and the Vatican Museums.",5,,,42,old
+264,Spanish Steps,"Piazza di Spagna, 00187 Roma RM, Italy",1,41.90613628317672 12.482754345403203,"The Spanish Steps is a famous staircase in Rome, connecting the Piazza di Spagna at the bottom with the TrinitÌÄåÊ dei Monti church at the top. It is a popular meeting point and gathering place.",3,,,28,old
+265,Castel Sant'Angelo,"Lungotevere Castello, 50, 00193 Roma RM, Italy",1,41.903238845697494 12.466318910745905,"Castel Sant'Angelo is a fortress located on the right bank of the Tiber River in Rome. It has served various purposes throughout history, including as a mausoleum, a castle, and a museum.",4,,,17,old
+266,Palatine Hill,"Via di San Gregorio, 00186 Roma RM, Italy",1,41.89067915447399 12.48755174110535,Palatine Hill is one of the seven hills of Rome and is considered the centermost of the famous Seven Hills of Rome. It offers panoramic views of the Roman Forum and the Circus Maximus.,5,,,27,old
+267,Baths of Caracalla,"Viale delle Terme di Caracalla,52, 00153 Roma RM, Italy",1,41.87915799439464 12.492385751222889,The Baths of Caracalla were ancient Roman public baths built during the reign of Emperor Caracalla. They were one of the largest and most impressive thermal complexes in ancient Rome.,2,,,31,old
+268,Piazza Navona,"Piazza Navona, 00186 Roma RM, Italy",1,41.8992680495627 12.473055380059884,"Piazza Navona is a beautiful square in Rome, famous for its Baroque architecture and stunning fountains. It is a lively gathering place and a hub of activity with numerous cafes and street performers.",4,,,17,old
+269,Circus Maximus,"Via del Circo Massimo, 00186 Roma RM, Italy",1,41.886333054191944 12.485154953073383,"Circus Maximus is an ancient Roman chariot racing stadium and entertainment venue. It was the largest stadium in ancient Rome and could accommodate over 150,000 spectators.",4,,,15,old
+270,Capitoline Hill,"Piazza del Campidoglio, 00186 Roma RM, Italy",1,41.89454118023064 12.483145121603664,"Capitoline Hill is one of the seven hills of Rome and was the citadel of the ancient city. It now houses the Capitoline Museums, which showcase a vast collection of ancient art and artifacts.",3,,,20,old
+271,Ara Pacis,"Lungotevere in Augusta, 00186 Roma RM, Italy",1,41.905165983511274 12.475265522388867,"The Ara Pacis is an ancient altar dedicated to the Roman goddess of peace, Pax. It is considered one of the most important works of Roman sculpture and is housed in a modern museum building.",2,,,10,old
+272,Basilica of Santa Maria Maggiore,"Piazza di Santa Maria Maggiore, 42, 00185 Roma RM, Italy",1,41.89773433134623 12.498386937731235,The Basilica of Santa Maria Maggiore is one of the major basilicas in Rome and is dedicated to the Virgin Mary. It is known for its beautiful mosaics and stunning interior.,3,,,5,old
+273,Palazzo Barberini,"Via delle Quattro Fontane, 13, 00184 Roma RM, Italy",1,41.903294089802266 12.489944012595991,"Palazzo Barberini is a palace in Rome that houses the Galleria Nazionale d'Arte Antica, an art gallery with a vast collection of paintings, sculptures, and other artworks.",5,,,25,old
+274,Campo de' Fiori,"Campo de' Fiori, 00186 Roma RM, Italy",1,41.89553744984559 12.472223453073946,"Campo de' Fiori is a lively square in Rome known for its bustling market during the day and vibrant nightlife. It is surrounded by restaurants, cafes, and historic buildings.",5,,,0,old
+275,Santa Maria in Trastevere,"Piazza di Santa Maria in Trastevere, 00153 Roma RM, Italy",1,41.88959680099575 12.469814637730664,Santa Maria in Trastevere is one of the oldest churches in Rome and is located in the charming Trastevere neighborhood. It is known for its beautiful mosaics and stunning interior.,4,,,10,old
+276,"Pietre d'inciampo in memoria di Tranquillo di Veroli, Marco di Veroli","Largo Arenula, 26, 00186 Roma RM, Italy",1,41.894588679167754 12.476140037731035,"The Stolpersteine, also known as stumbling stones, are small metal plaques placed in the urban fabric of certain European cities to commemorate the victims of the Holocaust. This initiative was created by German artist Gunter Demnig.
 In the context of Rome, some of these stones have been placed at Vicolo Costaguti, 24 to honor Clelia and Marcella Perugia, as well as Giuditta and Pacifico Di Veroli.",2,,,8,old
-263,Arch of Constantine,"Via di San Gregorio, 00186 Roma RM, Italy",1,41.889923087335376 12.490731839580757,"The Arch of Constantine is a triumphal arch in Rome, located near the Colosseum. It was built to commemorate the victory of Constantine the Great and is known for its well-preserved reliefs.",4,,,5,old
-264,Milan Cathedral," Piazza del Duomo, 20122 Milano MI, Italy.",2,45.46414163933181 9.191935903417761,"Milan Cathedral (Duomo di Milano) - This magnificent cathedral is one of the largest Gothic cathedrals in the world. Its elaborate facade and stunning interior features intricate sculptures, stained glass windows, and a rooftop terrace offering panoramic views of the city.",4,,,42,old
-265,Sforza Castle," Piazza Castello, 20121 Milano MI, Italy.",2,45.470498771643285 9.1793325," Sforza Castle (Castello Sforzesco) - A grand medieval fortress, Sforza Castle showcases a mix of architectural styles and houses several museums and art collections. Visitors can explore its courtyards, gardens, and historical rooms filled with sculptures and paintings.",3,,,55,old
-266,The Last Supper (Il Cenacolo)," Piazza di Santa Maria delle Grazie, 20123 Milano MI, Italy.",2,45.466244546673416 9.170604116823023,"The Last Supper (Il Cenacolo) - Housed in the refectory of the Convent of Santa Maria delle Grazie, Leonardo da Vinci's masterpiece, The Last Supper, depicts the biblical scene of Jesus and his disciples. It is renowned for its intricate details and use of perspective.",3,,,12,old
-267,Brera Art Gallery (Pinacoteca di Brera),"Via Brera, 28, 20121 Milano MI, Italy.",2,45.47203014780333 9.187813913908588,"Brera Art Gallery (Pinacoteca di Brera) - This art museum houses an impressive collection of Italian Renaissance and Baroque artworks. Visitors can admire masterpieces by artists such as Raphael, Caravaggio, and Titian.",3,,,51,old
-268,La Scala Opera House (Teatro alla Scala),"Via Filodrammatici, 2, 20121 Milano MI, Italy.",2,45.467439721452244 9.189551200000002,"Galleria Vittorio Emanuele II - Known as one of the world's oldest shopping malls, this elegant arcade is adorned with beautiful mosaics and features high-end boutiques, cafes, and restaurants. It connects Piazza del Duomo with Piazza della Scala.",3,,,42,old
-269,Galleria Vittorio Emanuele II,"Piazza del Duomo, 20123 Milano MI, Italy.",2,45.46620636798135 9.189758957622473," La Scala Opera House (Teatro alla Scala) - One of the most prestigious opera houses in the world, La Scala is renowned for its opulent interiors and exceptional acoustics. It has hosted renowned opera performances and ballets for centuries.",5,,,28,old
-270,Santa Maria delle Grazie,"Piazza di Santa Maria delle Grazie, 20123 Milano MI, Italy.",2,45.46603072031877 9.17094064228608,"Santa Maria delle Grazie - This UNESCO World Heritage site is a stunning example of Renaissance architecture. Apart from housing The Last Supper, the church itself boasts beautiful chapels, frescoes, and a tranquil courtyard.",4,,,17,old
-271,Navigli Canals,"Navigli District, 20123 Milano MI, Italy.",2,45.45145437455379 9.170989190785148,"Navigli Canals - Once used for transportation, the Navigli Canals now offer a lively atmosphere with numerous bars, restaurants, and art galleries. It's a popular spot to enjoy a leisurely stroll and take in the charming ambiance.",4,,,27,old
-272,Arch of Peace (Arco della Pace),"Piazza Sempione, 20154 Milano MI, Italy.",2,45.47578756272773 9.172458555656284,"Arch of Peace (Arco della Pace) - A neoclassical triumphal arch, the Arch of Peace stands at the entrance of Parco Sempione. It serves as a symbol of peace and commemorates Napoleon's victories.",2,,,31,old
-273,Basilica of Sant'Ambrogio," Piazza Sant'Ambrogio, 15, 20123 Milano MI, Italy.",2,45.46242702452528 9.175611999982229,"Basilica of Sant'Ambrogio - One of the oldest churches in Milan, this Romanesque basilica is dedicated to Saint Ambrose, the city's patron saint. It features impressive mosaics, a beautiful courtyard, and a rich history dating back to the 4th century.",2,,,17,old
-274,Leonardo da Vinci National Museum of Science and Technology,"Via San Vittore, 21, 20123 Milano MI, Italy.",2,45.46232504635221 9.170606469008959,"Leonardo da Vinci National Museum of Science and Technology - This museum pays homage to Leonardo da Vinci's genius and showcases his inventions, scientific studies, and artistic works. It offers interactive exhibits and educational displays.",4,,,15,old
-275,Museum of the Twentieth Century (Museo del Novecento),"Palazzo dell'Arengario, Via Marconi, 1, 20122 Milano MI, Italy.",2,45.463442351832015 9.190127838336407," Museum of the Twentieth Century (Museo del Novecento) - Located in the Palazzo dell'Arengario, this museum focuses on modern and contemporary art from the 20th century. It houses a diverse collection of paintings, sculptures, and installations.",2,,,20,old
-276,Porta Nuova District,"Porta Nuova, 20124 Milano MI, Italy.",2,45.47885001889914 9.19052513379982," Porta Nuova District - A modern urban redevelopment area, Porta Nuova is characterized by its sleek skyscrapers, public parks, and innovative architecture. It offers a vibrant mix of residential, commercial, and cultural spaces.",2,,,10,old
-277,San Maurizio al Monastero Maggiore,"Corso Magenta, 15, 20123 Milano MI, Italy.",2,45.46552859637119 9.178889271148357,"San Maurizio al Monastero Maggiore - Known as the Sistine Chapel of Milan,  this church features mesmerizing frescoes covering its walls and ceiling. It offers a glimpse into the artistic beauty of the Renaissance period.",5,,,9,old
-278,Church of San Lorenzor,"Corso di Porta Ticinese, 1, 20123 Milano MI, Italy.",2,43.775212713191046 11.25382435260368,"Church of San Lorenzo - With its Romanesque architecture and beautiful interior, the Church of San Lorenzo is a tranquil sanctuary in the bustling city. It houses notable artworks and is known for its serene atmosphere.",2,,,25,old
-279,Villa Necchi Campiglio," Via Mozart, 14, 20122 Milano MI, Italy.",2,45.46892041179797 9.202419603486316,Villa Necchi Campiglio - This elegant mansion-turned-museum showcases the luxurious lifestyle of the 20th-century Milanese upper class. ,3,,,0,old
-280,Piazza Mercanti,"Piazza Mercanti, 20123 Milano MI, Italy.",2,45.46466129796205 9.187633742311938,"Piazza Mercanti - Located in the heart of the historic center, Piazza Mercanti is a medieval square surrounded by stunning buildings with unique architectural details. It offers a glimpse into Milan's rich history and trade heritage.",3,,,10,old
-281,The Columns of San Lorenzo (Colonne di San Lorenzo),"Corso di Porta Ticinese, 35, 20123 Milano MI, Italy.",2,45.45836058260113 9.181057999973063,"The Columns of San Lorenzo (Colonne di San Lorenzo) - These ancient Roman columns stand as a testament to Milan's ancient past. The area around the columns is a popular gathering spot, especially in the evenings, with lively bars and restaurants.",4,,,8,old
-282,Royal Palace of Milan (Palazzo Reale) ," Piazza del Duomo, 12, 20122 Milano MI, Italy.",2,45.46326809458888 9.191168253933936,"19. Royal Palace of Milan (Palazzo Reale) - Once the seat of government, this royal palace now hosts art exhibitions and cultural events. Its opulent rooms showcase lavish decorations, historical artifacts, and temporary art displays.",3,,,5,old
-283,Church of San Bernardino alle Ossa,"Via Verziere, 2, 20123 Milano MI, Italy.",2,45.46246927467416 9.19535880977105,"Church of San Bernardino alle Ossa - This unique church is known for its macabre ossuary, where human bones are used as decorations. The adjacent chapelI apologize, it seems my response got cut off. Here's the continuation:",2,,,44,old
-284,Castel Nuovo (Maschio Angioino),"Piazza Municipio, Naples",3,40.8386514104664  14.25269793868597, Medieval castle with impressive architecture.,3,,,42,old
-285,Naples Cathedral ," Via Duomo, Naples",3,40.85268083036651  14.259320496358686,Magnificent cathedral with artistic treasures. served as the center of Roman public life for centuries.,5,,,55,old
-286,San Gregorio Armeno,"Via San Gregorio Armeno, Naples",3,40.85025079759876  14.257809896358554," Historic street known for Nativity scene figurines. center, which allows natural light to enter the building.",3,,,12,old
-287,Spaccanapoli,Historic center of Naples,3,40.84503801947924  14.247390974664398,Historic street with ancient buildings and local atmosphere. for visitors to throw coins into the water.,4,,,51,old
-288,Naples Underground (Napoli Sotterranea)," Piazza San Gaetano 68, Naples",3,40.852418261827204  14.256692984669899,Intriguing underground tunnels with historical significance. the Roman Catholic Church and home to St. Peter's Basilica and the Vatican Museums.,3,,,42,old
-289,Certosa di San Martino,"Largo San Martino 5, Naples",3,40.84374646530794  14.24081141170214, Museum in a former monastery with panoramic views. Monti church at the top. It is a popular meeting point and gathering place.,3,,,28,old
-290,Catacombs of San Gennaro,": Via Capodimonte 13, Naples",3,40.865199404294636 14.247354594507579,"Ancient catacombs with early Christian artwork. throughout history, including as a mausoleum, a castle, and a museum.",5,,,17,old
-291,Palazzo Reale (Royal Palace)," Piazza del Plebiscito, Naples",3,40.836402033215855  14.249359781013876, Opulent palace with royal history.,2,,,27,old
-292,Castel dell'Ovo," Via Eldorado 3, Naples",3,40.82842120802395  14.247604396357382,Seaside castle with panoramic views.,4,,,31,old
-293,Santa Chiara Church and Cloister,"Via Santa Chiara 49, Naples",3,40.84721074175679  14.252626023342541, Church and cloister with colorful tiles.,3,,,17,old
-294,Palazzo dello Spagnolo," Piazza Monteoliveto 15, Naples",3,40.8568793774404 14.254292038687014, Historic palace with Spanish Baroque architecture.,2,,,15,old
-295,San Domenico Maggiore,"Piazza San Domenico Maggiore 8, Naples",3,40.8490545006758  14.254454582866419,Beautiful church with Gothic-style interior.,2,,,20,old
-296,Museo di Capodimonte,"Via Miano 2, Naples",3,40.86726887307342 14.250802781015647,Art museum in a former royal palace.,2,,,10,old
-297,Piazza Dante,"Piazza Dante, Naples",3,40.84937259031417  14.249856938686607,Vibrant square with a statue of Dante Alighieri.,5,,,5,old
-298,Palazzo Pignatelli di Monteleone," Riviera di Chiaia 200, Naples",3,40.84718439920385  14.250442972138968,Noble palace with Baroque architecture and decorative arts museum.,2,,,25,old
-299,San Lorenzo Maggiore," Piazza San Gaetano 316, Naples",3,40.86319648994098  14.261417400933754,Medieval church with archaeological excavations.,3,,,0,old
-300,Museo Archeologico Nazionale di Napoli,"Piazza Museo 19, Naples",3,40.85380028068074  14.250549674015025, Major archaeological museum with artifacts from Pompeii and Herculaneum.,5,,,10,old
-301,Galleria Umberto I,"Via San Carlo, Naples",3,40.838717627261175  14.249548511701839,Elegant shopping gallery with a glass dome.,4,,,8,old
-302,Palazzo Zevallos Stigliano,"Via Toledo 185, Naples",3,40.83994384008391  14.24852193683423,Historic palace with an art museum.,4,,,5,old
-303,Rialto Bridge,"Sestiere San Polo, 30125 Venezia VE, Italy",5,45.438390722349865 12.335897999430307,"Ornate covered 16th-century stone footbridge crossing the Grand Canal, with shops & restaurants.",2,,,0,old
-304,Doge's Palace,"P.za San Marco, 1, 30124 Venezia VE, Italy",5,45.43408444791947 12.340447025775777,"Ornate Gothic palace buildings hosting exhibitions with duke's rooms, prison & armoury tours.",2,,,10,old
-305,Saint Mark's Basilica,"P.za San Marco, 328, 30100 Venezia VE, Italy",5,45.434665972438744 12.339755310984303,"Iconic cathedral with a cavernous gilded interior, myriad mosaics & an on-site museum.",2,,,7,old
-306,Grand Canal,"30100 Venice, Metropolitan City of Venice, Italy",5,45.43541711209589 12.327893141785655,"The iconic waterway that winds through Venice, flanked by historic palaces and buildings.",5,,,0,old
-307,Rialto Bridge,"Sestiere San Polo, 30125 Venezia VE, Italy",5,45.43808203783911 12.335887266805935,"Ornate covered 16th-century stone footbridge crossing the Grand Canal, with shops & restaurants.",4,,,0,old
-308,St Mark's Campanile,"P.za San Marco, 30124 Venezia VE, Italy",5,45.434216560683296 12.33900090913424,Imposing 16th-century square cathedral tower with an angel-topped spire & belfry offering sea views.,5,,,10,old
-309,Clock Tower,"P.za San Marco, 30124 Venezia VE, Italy",5,45.43492333050441 12.339024700125776,"A Renaissance tower from 1499, with city views & a mechanical clock with symbolic decorations.",4,,,5,old
-310,Riva degli Schiavoni,"30100 Venice, Metropolitan City of Venice, Italy",5,45.43415800336612 12.343932668655704,"Located on the south bank of the Grand Canal within the sestiere of Dorsoduro, the sprawlingåÊGallerie dell‰ÛªAccademiaåÊis one of the most important museums in Venice.",4,,,0,old
-311,Bridge of Sighs,"P.za San Marco, 1, 30124 Venezia VE, Italy",5,45.43419595084926 12.340802042919155,Arched bridge named for sighs of prisoners crossing it en route from the Palazzo Ducale to prison.,2,,,10,old
-312,Venetian Arsenal,"30122 Venice, Metropolitan City of Venice, Italy",5,45.4349518365066 12.349900899857575,"Byzantine shipyard founded in 1104, today used for cultural events, exhibitions & trade fairs.",2,,,0,old
-313,Ghetto Ebraico - ComunitÌÊ Ebraica di Venezia,"Campo del Ghetto Nuovo, C. del Magazzen, 2882, 30121 Venezia VE, Italy",5,45.44543531762386 12.326279869171811,"Historic Jewish neighborhood now home to 2 synagogues, kosher shops & the Jewish Museum of Venice.",3,,,12,old
-314,St. Mark's Square,"P.za San Marco, 30100 Venezia VE, Italy",5,45.43426843773743 12.338450242186132,Iconic square & gathering place dating back to the 12th century & dominated by St. Mark's Basilica.,5,,,0,old
-315,Campiello del Carro,"S. Marco, 1622, 30124 Venezia VE, Italy",5,45.433722040352876 12.335164126843251,Historical landmark,2,,,0,old
-316,Lo's places,"Ponte de S. PaterniÌÊn, 4231, 30124 Venezia VE, Italy",5,45.43525462175532 12.333948884514694,Historical landmark,2,,,0,old
-317,Campo Santa Margherita,"Campo Santa Margherita, 30100 Venezia VE, Italy",5,45.43442536616242 12.323512742186136,Historical landmark,2,,,0,old
-318,Florence Cathedral ,Piazza del Duomo,4,43.77326892499608  11.255949467658827,"Iconic cathedral with its magnificent dome, known as the Duomo, a symbol of the city.",3,,,42,old
-319,Palazzo Vecchio,Piazza della Signoria,4,43.76941738535383  11.256161625330392,"Historic fortress and city hall, featuring beautiful Renaissance architecture and famous artworks.",3,,,55,old
-320,Ponte Vecchio,Over the Arno River,4,43.76805668360152  11.253122038822648," Oldest bridge in Florence, lined with shops and known for its stunning views and medieval charm.",5,,,12,old
-321,Basilica of Santa Croce,Piazza Santa Croce,4,43.76858376653406  11.262235509986791," Franciscan church housing the tombs of many renowned figures, including Michelangelo and Galileo.",5,,,51,old
-322,Pitti Palace,Piazza de' Pitti,4,43.76533147855604  11.249986638822488," Grand Renaissance palace turned museum, showcasing art, royal apartments, and beautiful gardens.",4,,,42,old
-323,Uffizi Gallery,(Piazzale degli Uffizi),4,43.76792503171195  11.255310796494449, World-famous art museum displaying an extensive collection of Renaissance masterpieces.,5,,,28,old
-324,Bargello Museum,"Via del Proconsolo, 4",4,43.770522030689456  11.258018525330485,"Medieval fortress-turned-museum, housing sculptures, ceramics, and decorative arts.",3,,,17,old
-325,Boboli Gardens,Piazza de' Pitti,4,43.76263664404163  11.248399596494131," Historic garden behind the Pitti Palace, featuring beautiful landscaping, sculptures, and panoramic views.",2,,,27,old
-326,Basilica di San Lorenzo,(Piazza di San Lorenzo),4,43.77509356810489  11.253844009987162,"Historic church with a stunning faÌ¤ade and the Medici Chapels, a burial site for the Medici family.",4,,,31,old
-327,San Marco Museum ,"(Piazza San Marco, 3)",4,43.77827961460971  11.258922025330927," Former Dominican convent turned museum, known for its frescoes by Fra Angelico.",3,,,17,old
-328,Palazzo Medici Riccardi," (Via Camillo Cavour, 1)",4,43.77525230537793  11.25586667136168,"Renaissance palace built for the Medici family, featuring exquisite architecture and art.",2,,,15,old
-329,Basilica di Santa Maria Novella ,(Piazza di Santa Maria Novella),4,43.774743028070944 11.249375167658917, Gothic and Renaissance church known for its stunning faÌ¤ade and art collection.,5,,,20,old
-330,San Miniato al Monte,"(Via delle Porte Sante, 34)",4,43.759542353456766  11.26493668114044," Romanesque church on a hilltop, offering panoramic views of Florence and beautiful mosaics.",3,,,10,old
-331,Piazza della Repubblica ,"Central square with a vibrant atmosphere, surrounded by historical cafÌ©s, shops, and arcades.",4,43.77162413372749  11.253864892792027,Vibrant square with a statue of Dante Alighieri.,3,,,5,old
-332,Palazzo Davanzati,"(Via Porta Rossa, 13) ",4,43.77033935369742 11.252867025330486,"Medieval palace-turned-museum, providing a glimpse into the daily life of Renaissance Florence.",3,,,25,old
-333,Basilica of San Lorenzo,(Piazza di San Lorenzo),4,43.775085821230064  11.253886925330772,Renaissance church with a tranquil cloister and the Laurentian Library designed by Michelangelo.,3,,,0,old
-334,Orsanmichele,(Via dell'Arte della Lana) ,4,43.770784087804905 11.255004696494543," Former grain market transformed into a church, showcasing intricate sculptures on its exterior.",4,,,10,old
-335,Loggia dei Lanzi ,(Piazza della Signoria),4,43.76931383319353  11.255544125330356,"Open-air sculpture gallery featuring famous statues, including the iconic Perseus with the Head of Medusa.",3,,,8,old
-336,Basilica di Santo Spirito, (Piazza Santo Spirito) ,4,43.767224437523964  11.2480689811508," Renaissance church known for its simplicity and the works of renowned artists, such as Brunelleschi.",2,,,5,old
-337,Santa Maria del Carmine ,(Piazza del Carmine),4,43.76825023984631  11.243998584853479," Church famous for the Brancacci Chapel, housing masterful frescoes by Masaccio.",2,,,23,old
-338,Teatro dellOpera di Roma,"Piazza Beniamino Gigli, 00184 Roma RM, Italy",1,41.90079059587993 12.495658295400876,Iconic 19th-century theater thats as visually dramatic & lavish as the opera productions it stages.,2,,,50,night
-339,Piazza Navona in Rome,"Piazza Navona, 00186 Roma RM, Italy",1,42.61517702203919 12.588172027923532,"Elegant square dating from the 1st century A.D., with a baroque fountain, street artists & bars.",1,,,60,night
-340,Trevi Fountain in Rome,"Piazza di Trevi, 00187 Roma RM, Italy",1,41.90108118403159 12.483358776092714,"Aqueduct-fed rococo fountain, designed by Nicola Salvi & completed in 1762, with sculpted figures.",2,,,50,night
-341,Intimate jazz club & whisky bar.,"Via Gregoriana, 54/a, 00187 Roma RM, Italy",1,41.90646391870449 12.48456545236533,Cool cocktails & bar meals in a low-lit setting with a frosty vibe & decor made out of ice.,1,,,35,night
-342,Castel SantAngelo,"Lungotevere Castello, 50, 00193 Roma RM, Italy",1,41.90318294933377 12.466254537728092,"Circular, 2nd-century castle housing furniture & paintings collections in Renaissance apartments.",1,,,35,night
-343,Roof Garden & Bar,"Via Giovanni Vitelleschi, 34, 00193 Roma RM, Italy",1,41.905156608826275 12.461993231390387,"A roof that turns into a terrace for cocktails, private parties, business meetings or can also be used only to admire Rome from an unconventional perspective. ",1,,,75,night
-344,Vatican Museums,00120 Vatican City,1,41.90663948198113 12.453652024237723,"Multiple galleries of classical & Renaissance art masterpieces, plus the Sistine Chapel frescoes.",3,,,70,night
-345,Trastevere,"Trastevere, Rome, Metropolitan City of Rome Capital, Italy",1,41.885986467545884 12.47013118675295,"Colorful Trastevere is a funky, bohemian area that clings to its centuries-old, working-class roots. Its known for traditional and innovative trattorias, craft beer pubs and artisan shops, as well as simple B&Bs and budget hotels. From the pre-dinner passeggiata (promenade) until late, a young crowd buzzes around Piazza di San Calisto and Piazza Santa Maria in Trastevere, the site of a gilded, mosaic-filled church.",1,,,40,night
-346,Ice Club Roma,"Via della Madonna dei Monti, 18/19, 00184 Roma RM, Italy",1,41.89587441474658 12.489198508866922,Cool cocktails & bar meals in a low-lit setting with a frosty vibe & decor made out of ice.,2,,,50,night
-347,La Cabala,"Via dei Soldati, 25c, 00186 Roma RM, Italy",1,41.90571254723192 12.47117406485654,Intimate nightclub on the top floor of a medieval building with views of the River Tiber.,2,,,70,night
-348,Disco Planet Rome,"Via del Commercio, 36, 00154 Roma RM, Italy",1,41.87287026998206 12.475808921887781,"Busy nightclub with multiple rooms & dance floors offering live bands & themed nights, plus a bar.",1,,,50,night
-349,Sharivari,"Via de Nari, 14, 00186 Roma RM, Italy",1,41.89813384139835 12.47603553805878,"Elegant & glamorous venue with an Italian fine dining restaurant, a bistro & a stylish nightclub.",3,,,60,night
-350,Yellow Bar,"Via Palestro, 40, 00185 Roma RM, Italy",1,41.90549788598787 12.504623530116069,"Low-lit, buzzing restaurant/bar in a hostel, with live music & an underground club.",2,,,25,night
-351,Mag Cafe,"Ripa di Porta Ticinese, 43, 20143 Milano MI, Italy",2,45.45137380174303 9.173410528562401,this place is known for its aperitivo hours where drinks are accompanied by finger food3.,2,,,50,night
-352,Moscow Mule Bar,"Via Teodosio, 60, 20131 Milano MI, Italy",2,45.48691299523624 9.230104335554646,this place is known for its aperitivo hours where drinks are accompanied by finger food3.,1,,,60,night
-353,Il Bar,"Via Teodosio 60, Milan, 20131",2,45.46488794489 9.19186033555871,this place is known for its aperitivo hours where drinks are accompanied by finger food3.,2,,,50,night
-354,Moscow Mule Bar,"Via Cardinale Ascanio Sforza 37, Milan, 201362.",2,45.486935560288565 9.230039962540317,"Moscow Mule Bar: This is a cocktail bar located at Via Teodosio 60, Milan1. The bar is known for its Moscow mule, a cocktail made with vodka",3,,,35,night
-355,Coba Happy Hour Navigli Milano,"Via Ascanio Sforza, 37, 20136 Milano MI, Italy",2,45.448550963202834 9.177362777880898,"Ascanio Sforza 37, Milan2, this place is known for its aperitivo hours where drinks are accompanied by finger food3.",1,,,35,night
-356,Frida,"Viale Premuda 7, Milan, 20129",2,45.458039780365205 9.175339464339972,"Frida: Located in Milan, Frida is a bar and shop that has changed the history of the Isola district",1,,,75,night
-357,Lab Milano Cocktail Bar,"Viale Monza 140, Milan, 20127",2,45.46411712261373 9.207083564386444,"It is known for its experimentation, creation, and research of new flavors and sensations.",1,,,70,night
-358,Zelig Cabaret,"Via Cardinale Ascanio Sforza 21, Milan, 20136",2,45.50417003266416 9.222361977880084,It offers high-quality live music every evening from Tuesday to Saturday,2,,,40,night
-359,Ginger Cocktail Lab,"Via Emilio Gola 12, Milan",2,45.44975079758872 9.177653809135325,It is the perfect address for those seeking moments of pure pleasure and fun in the Milanese nightlife,3,,,50,night
-360,10gradinord,"Ippolito Rosellini 1, Zona Isola - Stazione Centrale - Garibaldi - Corso Como, Milan, 20124",2,45.44429922991731 9.154419289529445,over the years has witnessed performances by artists of great prestige both in Italy and abroad,1,,,70,night
-361,CAPRICCIO Exclusive Club Milano,"Via Emilio Gola 12, Milan",2,45.48841007943055 9.193648864395378,offers lowed parties and excelent drinks.,1,,,50,night
-362,Nidaba Theatre - Live Music Navigli Milano,"åÊVia dei Piccolomini 5, 20151 Milano",2,45.44901478024667 9.17581989323408,"fun and transgression, immersing yourself in an enveloping and engaging atmosphere10.",3,,,60,night
-363,San Siro Stadium,"Via dei Piccolomini 5, 20151 Milano",2,45.47816345147721 9.124044279734743,"San Siro, officially known as Stadio Giuseppe Meazza, is a football stadium in the San Siro district of Milan, Italy, which is the home of A.C.",1,,,25,night
-364,La Scala Opera House,"Piazza della Scala, Milan",2,45.46747734286862 9.189578022068918,"Nestled in the heart of Milan, Teatro alla Scala, commonly known as La Scala, is one of the world‰Ûªs most iconic and prestigious opera houses",1,,,50,night
-365,Castello Sforzesco,"Piazza Castello, Milan",2,45.4705890581159 9.179294949052773,"This is a medieval fortification located in Milan, Northern Italy",1,,,55,night
-366,Galleria Vittorio Emanuele II,"Piazza del Duomo, Milan",2,45.46607092766959 9.189941347846336,"Galleria Vittorio Emanuele II: This is Italy‰Ûªs oldest active shopping gallery and a major landmark of Milan, Italy",1,,,45,night
-367,Duomo di Milano:,"Piazza del Duomo, Milan",2,45.46413832526434 9.191911955650484,"The Milan Cathedral, also known as Duomo di Milano, is a mind-blowing journey among art, history",1,,,45,night
-368,Rock‰Ûªn‰Ûªroll Milano,"Via Giuseppe Bruschetti, 11, 20125 - Milano",2,45.49268259761525 9.207582977890452,This is a unique place that offers a selection of crafted drinks that are sharp and refreshing to the senses.,3,,,23,night
-369,Bar Matricola,"Via Caminadella 20, Milan, 20143",2,45.4657783037244 9.175356169057729,This is a nice place where you can reserve a table or even a small space for yourselves.,1,,,43,night
-370,Hole Rabbit CafÌ¬:,"Via Giuseppe Mazzini 20, Milan,20123",2,45.46180397549449 9.18842832206119,"This cafÌ© is an Alice in Wonderland-themed tea room, the first of its kind in Italy",3,,,12,night
-371,The Lounge Bar:,"Piazza della Repubblica 20, Milan,20124",2,45.48055440946163 9.199831924070043,"The Lounge Bar is located in The Westin Palace, Milan. It‰Ûªs a popular meeting place for both locals and international travelers",3,,,34,night
-372,Piazza Bellin,"Piazza Bellini, Naples, Italy.",3,40.84996623004733 14.252255680775132,"Piazza Bellini: A vibrant square known for its lively nightlife scene, with numerous bars, cafes, and live music venues",1,,,50,night
-373,Via dei Tribunal,"Via dei Tribunali, Naples, Italy.",3,40.851622971186295 14.258811145831396,"Via dei Tribunali: A popular street in the historic center, lined with bars, pubs, and small clubs. Its a great place for bar hopping and enjoying the energetic atmosphere",1,,,60,night
-374,Lungomare Caracciolo,"Lungomare Caracciolo, Naples, Italy.",3,40.82820459966301 14.221175117005366,"Lungomare Caracciolo: A scenic promenade along the waterfront, offering a variety of bars, restaurants, and clubs with stunning views of the bay",1,,,50,night
-375,Vomero,"Vomero district, Naples, Italy.",3,40.84345596862755 14.222263130735039,Vomero,2,,,35,night
-376,Quartieri Spagnoli,"in the Spanish Quarter (Quartieri Spagnoli), Naples, Italy.",3,40.842996831187456 14.247183598207501,"Quartieri Spagnoli: A vibrant and authentic neighborhood with many local bars, taverns, and late-night spots. Its a great place to experience the local nightlife scene.",2,,,35,night
-377,Piazza San Domenico Maggiore,"Piazza San Domenico Maggiore, Naples, Italy.",3,40.848659038842506 14.255170490025531,Piazza San Domenico Maggiore: A charming square surrounded by historic buildings and filled with bars and outdoor seating.,2,,,75,night
-378,Via Partenope,"Via Partenope, Naples, Italy",3,40.830087259492544 14.24549477471527,"Via Partenope: A waterfront street with a selection of bars and clubs, offering a lively atmosphere and beautiful views of the sea.",1,,,70,night
-379,Via Toledo,"Via Toledo, Naples, Italy.",3,40.84290602172316 14.248883542363032,"Colorful Trastevere is a funky, bohemian area that clings to its centuries-old, working-class roots. Its known forVia Toledo: A bustling street with a mix of bars, cafes, and late-night venues. Its a popular spot for socializing and enjoying the vibrant atmosphere",1,,,40,night
-380,Chiaia,"the Chiaia district, Naples, Italy.",3,40.83616017730097 14.233442927748316,"Chiaia: A trendy neighborhood known for its upscale bars, cocktail lounges, and stylish nightlife venues.",3,,,50,night
-381,Rione SanitÌÊ,"the SanitÌÊ district, Naples, Italy.",3,40.85907009737598 14.254342381556192,"Rione SanitÌÊ: A historic neighborhood with a growing nightlife scene, featuring bars, music venues, and cultural spaces.",3,,,70,night
-382,Teatro Bellini,"Via Conte di Ruvo, 14, 80135 Naples NA, Italy.",3,40.85128822191436 14.251053015589855,"Teatro Bellini: A renowned theater that hosts a variety of performances, including theater shows, concerts, and DJs. Its a unique nightlife experience in a cultural setting",2,,,50,night
-383,Borgo Marinari,"Borgo Marinari, Naples, Italy.",3,40.830904856109846 14.248086060333234,Borgo Marinari: A picturesque area with a selection of bars and restaurants located on a small island near the Castel dellOvo.,2,,,60,night
-384, Piazza San Pasquale,"t Piazza San Pasquale, Naples, Italy.",3,40.834347946216745 14.236365352397153,"Piazza San Pasquale: A lively square with several bars and pubs, known for its vibrant nightlife and social gatherings",2,,,25,night
-385,Piazza San Domenico Maggiore,"Piazza San Domenico Maggiore, Naples, Italy.",3,40.8486428073012  14.255138296358506,"square with a mix of bars, cafes, and clubs, offering a diverse range of nightlife options",3,,,44,night
-386,Via Partenope,"Via Partenope, Naples, Italy.",3,40.83009537738777 14.245548411701392,"A waterfront street with a selection of bars and clubs, offering a lively atmosphere and beautiful views of the sea.",2,,,45,night
-387,Pozzuoli,"in Pozzuoli, Naples, Italy.",3,40.84685248123578  14.083042636544471,"A coastal town near Naples with a vibrant nightlife scene, featuring bars, clubs, and beachfront venues.",1,,,54,night
-388,Vico San Pietro a Majella,"Vico San Pietro a Majella, Naples, Italy.",3,40.84984319864723  14.252366396358557,A narrow street in the historic center known for its jazz bars and live music venues. Its a great place for music enthusiasts and those who enjoy a laid-back atmosphere,3,,,65,night
-389,Via Toledo Underground,"Via Toledo, Naples, Italy.",3,40.84317949066407  14.249018945032248,"An underground space hosting events, concerts, and DJ performances. It offers a unique and alternative nightlife experience.",2,,,56,night
-390,Via Mezzocannone,"Via Mezzocannone, Naples, Italy.",3,40.84674654272337  14.256055409850479,"A street in the university district, featuring a variety of bars, pubs, and student hangouts. Its a vibrant area with a youthful atmosphere.",2,,,45,night
-391,Molo Beverello,"Molo Beverello, Naples, Italy.",3,40.83837091115347  14.254583881014058,"The main port area of Naples, offering a range of bars and restaurants with waterfront views",3,,,34,night
-392,Skyline Rooftop Bar,"San Marco, 30124 Venice",5,45.428154880168364 12.320120093484084,Skyline Rooftop Bar offers breathtaking views of the Venice skyline. Enjoy a wide range of cocktails and live music while taking in the citys beauty.,3,,,15,night
-393,Bacaro Jazz Club,"Dorsoduro, 30123 Venice",5,45.438426493589326 12.337163268656042,Bacaro Jazz Club is a popular spot for jazz enthusiasts. Sip on your favorite drink while listening to live jazz performances in an intimate and cozy setting.,1,,,10,night
-394,Lido Beach Bar,"Lido di Venezia, 30126 Venice",5,45.41438035686907 12.377185353099454,"Lido Beach Bar is the perfect place to unwind by the beach. Enjoy refreshing cocktails, lounge on sunbeds, and take a dip in the Adriatic Sea.",2,,,8,night
-395,Harrys Bar,"San Marco, 30124 Venice",5,45.432649050443054 12.337351810333082,Harrys Bar is a historic Venetian institution known for its classic cocktails and elegant atmosphere. Experience the charm of this iconic bar frequented by famous personalities.,2,,,20,night
-396,Cafe Noir,"Cannaregio, 30121 Venice",5,45.43611308367388 12.325304839820115,"CafÌÄå© Noir is a trendy cafÌÄå© by day and a lively bar by night. Savor delicious coffee, indulge in tasty snacks, and enjoy the vibrant atmosphere.",2,,,7,night
-397,Bacaro Veneto,"Castello, 30122 Venice",5,45.43597624012882 12.325980695637,Bacaro Veneto is a traditional Venetian wine bar. Sample a variety of local wines and savor delectable cicchetti (small snacks) in a cozy and authentic setting.,2,,,12,night
-398,Jazz Club Venice,"Santa Croce, 30135 Venice",5,45.43338289220982 12.323896110984217,"Jazz Club Venice offers an eclectic mix of jazz, blues, and soul music. Immerse yourself in the soulful melodies while enjoying your favorite drink.",2,,,15,night
-399,Novecento Jazz Club 900,"Campiello del Sansoni, 900, 30125 Venezia VE, Italy",5,45.438884612197604 12.332600342203314,"Novecento Jazz Club 900 offers an intimate and cozy space for jazz enthusiasts. Enjoy live jazz music, friendly ambiance, and a wide selection of drinks.",2,,,10,night
-400,Giudecca 795 Art Gallery,"Giudecca, 30133 Venice",5,45.42705733706576 12.324006636884436,Giudecca 795 Art Gallery is a contemporary art space showcasing works from local and international artists. Explore the vibrant art scene of Venice in this unique gallery.,3,,,0,night
-401,Cipriani Bar,"Giudecca, 30133 Venice",5,45.42740516538459 12.341075130116065,Cipriani Bar is a luxurious waterfront bar offering stunning views of the lagoon. Enjoy signature cocktails and a sophisticated ambiance in this iconic Venetian establishment.,3,,,25,night
-402,Bauer Palazzo Rooftop Bar,"San Marco, 30124 Venice",5,45.4323846070704 12.33620076746849,Bauer Palazzo Rooftop Bar provides panoramic views of Venices landmarks. Indulge in a wide selection of drinks and experience the citys charm from above.,1,,,20,night
-403,Piccolo Mondo,"Cannaregio, 30121 Venice",5,45.43183544867263 12.327395666805542,Piccolo Mondo is a lively bar known for its energetic atmosphere and live music performances. Dance the night away and enjoy a vibrant nightlife experience.,1,,,10,night
-404,Acqua Alta Bookstore,"Castello, 30122 Venice",5,45.438175504443926 12.342324182148804,Acqua Alta Bookstore is a unique bookstore with a charming twist. Enjoy a drink amidst stacks of books and experience the cozy and eccentric ambiance.,3,,,0,night
-405,Bacaro Dai Mori,"San Polo, 30125 Venice",5,45.43904714928625 12.334050353736009,Bacaro Dai Mori is a traditional Venetian wine bar with a rich selection of local wines and delicious cicchetti. Immerse yourself in the local culture and flavors.,1,,,12,night
-406,La Fenice Opera House,"San Marco, 30124 Venice",5,45.4337203878043 12.333736437969938,La Fenice Opera House is a historic venue offering breathtaking opera performances. Witness world-class talent in an opulent setting for an unforgettable night.,1,,,15,night
-407,Bacaro Rosso,"Dorsoduro, 30123 Venice",5,45.550258235785044 12.310143080306643,Bacaro Rosso is a cozy wine bar serving an extensive selection of wines and delectable Venetian dishes. Experience the local culinary delights in a warm ambiance.,3,,,15,night
-408,Venissa Wine Resort,"Mazzorbo, 30142 Venice",5,45.48871091437793 12.411144195645216,Venissa Wine Resort is a vineyard and wine bar located on the island of Mazzorbo. Taste exquisite local wines and enjoy the serene atmosphere of the Venetian lagoon.,2,,,30,night
-409,Osteria Al Squero,"Dorsoduro, 30123 Venice",5,45.430247056299976 12.326214568655397,Osteria Al Squero is a charming bar near a gondola workshop. Sip on a glass of wine and watch the gondoliers at work while enjoying the authentic Venetian vibe.,2,,,10,night
-410,Cantina Do Mori,"San Polo, 30125 VeniceVenice",5,45.43911542029395 12.333987980298884,"Cantina Do Mori is one of the oldest wine bars in Venice, dating back to 1462. Step into history and enjoy a glass of wine in this atmospheric and traditional establishment.",2,,,10,night
-411,The Gritti Palace Terrace,"San Marco, 30124 Venice",5,45.43196136790368 12.333323153312689,The Gritti Palace Terrace is a luxurious rooftop bar offering stunning views of the Grand Canal. Indulge in exquisite cocktails and soak in the opulence of Venice.,3,,,30,night
-412,Peggy Guggenheim Collection,"Dorsoduro, 30123 Venice",5,45.43101662927538 12.331537395641181,Peggy Guggenheim Collection is a renowned modern art museum. Discover masterpieces by prominent artists and enjoy the vibrant art scene in the heart of Venice.,1,,,15,night
-413,Red Garter,"Via de' Benci, 33",4,43.76836469187916  11.25974135231494,"Lively pub with live music, karaoke, and a vibrant atmosphere.",3,,,50,night
-414,The Blob Club,"Via Vinegia, 21/r",4,43.76891828170419  11.257509125330413," Popular nightclub playing a mix of music genres, from rock to electronic.",3,,,60,night
-415,Space Electronic Disco Club,"Via Palazzuolo, 37",4,43.77381941208471  11.24630386765888,Underground electronic music venue with multiple dance floors.,3,,,50,night
-416,Jazz Club Firenze,"Via Nuova de' Caccini, 3",4,43.77364993005363  11.263129996494765,Intimate jazz club hosting live performances by local and international artists.,3,,,35,night
-417,Lion's Fountain Pub,"Via del Giglio, 49",4,43.771689206953496  11.261546311838273," Irish pub featuring live sports screenings, pub quizzes, and a wide selection of beers.",3,,,35,night
-418,Bitter Bar,"Via di Mezzo, 28r",4,43.71620377335088  11.28422277487975, Upscale cocktail bar with a refined atmosphere and an extensive drink menu.,2,,,75,night
-419,YAB Disco Club,"Via Sassetti, 5r",4,43.77102791931721  11.252681725330541,Stylish nightclub with multiple dance floors and a mix of music genres.,1,,,70,night
-420,Mayday Club,"Via Dante Alighieri, 16",4,43.77112426647661  11.256593338822828,"Late-night club with a dance floor, DJ sets, and a trendy atmosphere.",3,,,40,night
-421,Rex CafÌ©,"Piazza della Repubblica, 6R",4,43.77268477340966 11.26320500998696," Chic cafÌ©-bar offering cocktails, live music, and a terrace with panoramic views.",2,,,50,night
-422,Full Up Club ,"Via della Vigna Vecchia, 23r",4,43.7702493936777  11.258863038822758,Nightclub playing a mix of music genres and hosting regular themed parties.,1,,,70,night
-423,Tenax Club,"Via Pratese, 46",4,43.79907592178722  11.195229340675793,Renowned club known for its electronic and techno music events.,2,,,50,night
-424,Moyo," Via dei Benci, 23r",4,43.76828162198765  11.259612408135453,"Cocktail bar with a relaxed ambiance, outdoor seating, and a wide range of drinks.",2,,,60,night
-425,Negroni,"Via dei Renai, 17r",4,43.76822199914468  11.258593783855463, Trendy cocktail bar with a stylish interior and expertly crafted drinks.,1,,,25,night
-426,Rasputin Disco Pub,"Via Pier Capponi, 1",4,43.76649688304835 11.248074725330342,Russian-themed nightclub with multiple dance floors and live DJ performances.,1,,,44,night
-427,The Fusion Bar ,"Via del Ghibellina, 70r",4,43.76901093382141  11.25321075416632 ,"Lounge bar offering a fusion of cocktails, sushi, and live music.",1,,,45,night
-428,Slowly Club,"Via Porta Rossa, 63",4,43.88170687721324  11.256453811007072," Cosy nightclub with a dance floor, DJ sets, and a friendly atmosphere.",3,,,54,night
-429,Volume,"Piazza Santo Spirito, 5r",4,43.7668254342757  11.247837067658484,"Artistic venue hosting live music, DJ sets, and cultural events.",3,,,65,night
-430,The Friends Pub,"Via de' Pepi, 51",4,43.770623170687344  11.250934164070319,"Cozy pub with a warm atmosphere, offering a selection of beers and spirits. ",2,,,56,night
-431,Rivoire,"Piazza della Signoria, 5-6r",4,43.769751570210744 11.255085496494521," Historic cafÌ© with outdoor seating, known for its hot chocolate and pastries.",3,,,45,night
-432,Zoe,"Piazza Santa Maria Novella, 20r",4,43.76556532992247 11.260219383652483, Lounge bar and restaurant with a sophisticated ambiance and signature cocktails.,3,,,34,night
-433,The Blob Firenze,"Via del Proconsolo, 9r",4,43.768887290999125  11.257444752315003,Eclectic bar with a unique interior and a mix of music genres.,2,,,55,night
-434,The Beer House Club,"Via de' Benci, 23r",4,43.76762609944837  11.260033742525252,Lively pub offering a wide selection of craft beers and live sports screenings.,2,,,60,night
-435,Colle Bereto,"Piazza Strozzi, 5r",4,43.77112653463012 11.252039781151037," Rooftop bar with panoramic views of Florence, serving cocktails and light bites.",1,,,65,night
-436,Oibo - Beer e Burger,"Via dei Benci, 34r",4,43.768698739032935  11.260299983002195,Casual bar offering a variety of beers on tap and gourmet burgers.,1,,,45,night
-437,Rari Nantes Florentia,"Viale Paoli, 3",4,43.76659939407486  11.275888098033125,Sports bar with big screens for watching live sports events and a friendly atmosphere.,3,,,23,night
-438,Villa Borghese Gardens,"Piazzale Napoleone I, 00197 Roma RM, Italy",1,41.912983078988084 12.48516558006076,"Vast urban park with formally landscaped gardens, a lake & villas now housing important museums.",2,,,,natural
-439,Botanical Garden of Rome,"Largo Cristina di Svezia, 23 A - 24, 00165 Roma RM, Italy",1,41.89288280617462 12.462939079547962,"7,000 plant species from around the world, plus fountains, a bamboo grove & a Japanese tea garden.",4,,,,natural
-440,Monte Mario,"Monte Mario, 00136 Roma RM, Italy",1,41.91794165875352 12.450171371905292,"Forested hill offering a nature reserve, observatory & panoramic views of the city & its monuments.",5,,,,natural
-441,Gianicolo Hill,"Piazzale Giuseppe Garibaldi, 00165 Roma RM, Italy",1,41.89166933751176 12.461351280059397,"This historic, well-known hilltop terrace offers panoramic views of Rome.",2,,,,natural
-442,Parco degli Acquedotti,"Via Lemonia, 256, 00174 Roma RM, Italy",1,41.850548739851135 12.557414284514692,"Protected parkland with a Roman aqueduct & ancient archaeological sites, plus a former mill.",5,,,,natural
-443,Lake Bracciano,"Lago di Bracciano, Italy",1,42.13049402148912 12.234714392817125,"a popular place for sailing, swimming & scuba diving.",4,,,,natural
-444,Tiber Island,"Isola Tiberina, 00186 Roma RM, Italy",1,41.89076521851188 12.477205191159609,Compact island in a bend of the River Tiber with a number of historical buildings & monuments.,3,,,,natural
-445,Appian Way Regional Park,"Parco Regionale dell'Appia Antica, Via Appia Antica, 42, 00178 Roma RM, Italy",1,41.86846830399119 12.502436695400757,Park along 16 km of the Roman road preserving important ancient Roman tombs & villas.,2,,,,natural
-446,Villa Doria Pamphili,"Via di San Pancrazio, 00152 Roma RM, Italy",1,41.885406070114456 12.441598366566145,"Landscaped park on ancient noble Roman estate, with open-air concerts, nature trails & fountain.",3,,,,natural
-447,Ostia Beach,"Lido di Ostia, 00122 Roma RM, Italy",1,41.73698985513557 12.28517615956347,"Historical 150-meter jetty, first founded in 1940, ending in a circular observation space.",4,,,,natural
-448,Vatican Gardens,"Vatican City, 00120",1,41.9038103292675 12.450310168417394,"Formal gardens within Vatican City, featuring fountains, sculptures & landscaped greenery.",3,,,,natural
-449,Janiculum Hill,"Via Garibaldi, 00153 Roma RM, Italy",1,41.89158148443225 12.461404924237998,"Hilltop park known for its panoramic views, statues, and memorials, including a large statue of Giuseppe Garibaldi.",4,,,,natural
-450,Villa Celimontana,"Via della Navicella, 12, 00184 Roma RM, Italy",1,41.88402072333501 12.495179608894615,"Renaissance villa and park with ancient Roman ruins, gardens, and a summer jazz festival.",3,,,,natural
-451,Villa Ada Savoia,"Via Salaria, 00199 Roma RM, Italy",1,41.93295543180118 12.502058838058776,"Large park with a lake, trees, and walking paths, offering a peaceful retreat from the city.",4,,,,natural
-452,Parco Savello (Orange Garden),"Piazza Pietro D'Illiria, 00153 Roma RM, Italy",1,41.88523339523036 12.480388710744778,"Garden on the Aventine Hill with orange trees, rose beds, and a panoramic view of Rome.",5,,,,natural
-453,Parco Sempione,"Piazza Sempione, 20121 Milano MI",2,45.472517938322106 9.17696642500752,"Located in the heart of the city, Parco Sempione is one of the largest parks in Milan. It is characterized by its stunning views, dense trees",5,,,,natural
-454,Parco Nord Milano,"Via Clerici, 20121 Milano MI",2,45.467759533635366 9.186761957657998,"This vast natural park is one of the largest green spaces in Milan. It features expansive meadows, dense forests, and lakes. The park",3,,,,natural
-455,Parco Lambro," Via Martiri Oscuri, 20135 Milano MI",2,45.4960535105214 9.257584611602484,"Situated along the banks of the Lambro River, Parco Lambro offers a tranquil refuge in the city. It boasts wide green spaces, trees, and small lakes.",5,,,,natural
-456,Parco Sant'Agostino,"Piazzale Sant'Agostino, 20123 Milano M",2,45.704604588595224 9.672046913475333,"This peaceful park provides an escape from the noise and bustle of the city center. It features dense trees, beautiful landscapes",5,,,,natural
-457,Giardini della Guastalla,"Pescheria barocca, Via Francesco Sforza, 20122 Milano MI, Italy",2,45.46172153448599 9.19604345223511,"Situated near the site of Expo 2015, this park offers a relaxing and scenic environment. It features green meadows",2,,,,natural
-458,"milano ,parco sempione","Piazza Castello, 17, 20121 Milano MI, Italy",2,45.47087125416485 9.178533992339307,"Located on Via Luigi Cadorna, this park offers a peaceful retreat with its lush greenery and trees.",4,,,,natural
-459,BAM Tree Library Milan,"Via Gaetano de Castillia, 28, 20124 Milano MI, Italy",2,45.48639829965983 9.192610224804557,"Garden park & botanical garden with contemporary landscape design, restaurants & community events.",3,,,,natural
-460,Acquario Civico e Stazione Idrobiologica di Milano,"V.le Gadio, 2, 20121 Milano MI, Italy",2,45.48583890642663 9.182819257674524,"Landscaped park on ancient noble Roman estate, with open-air concerts, nature trails & fountain.",4,,,,natural
-461,Parco Villa Litta,"Via Jacopo della Quercia, 20151 Milano MI",2,45.51605173143442 9.167153642299478,"Historical 150-meter jetty, first founded in 1940, ending in a circular observation space.",4,,,,natural
-462,Parco pubblico - Giacometti-Gilardi,"20126 Milan, Metropolitan City of Milan, Italy",2,45.51412198237554 9.219367217341238,"Formal gardens within Vatican City, featuring fountains, sculptures & landscaped greenery.",4,,,,natural
-463,Parco Niguard,"Via Ospedale Maggiore, 20162 Milano MI",2,45.52603346916828 9.190423155479206,"Hilltop park known for its panoramic views, statues, and memorials, including a large statue of Giuseppe Garibaldi.",2,,,,natural
-464,Parco Monte Stella,"Via Enrico Terzaghi, 20148 Milano MI, Italy",2,45.49042515938645 9.13255168400254,"Renaissance villa and park with ancient Roman ruins, gardens, and a summer jazz festival.",4,,,,natural
-465,Parco Lambroside,"Via Lambro, 20151 Milano MI",2,45.53134156016016 9.24215918340044,"Large park with a lake, trees, and walking paths, offering a peaceful retreat from the city.",4,,,,natural
-466,Parco dell'Alintorno,"Via Medeghino, 20161 Milano M",2,45.34327789019597 10.696010198125041,"Garden on the Aventine Hill with orange trees, rose beds, and a panoramic view of Rome.",2,,,,natural
-467,Mount Vesuvius,East of Naples,3,40.823419883857966  14.428733906693902,Majestic volcano with scenic views and hiking trails.,4,,,,natural
-468,Capri Island,Off the coast of Naples,3,40.58514660582194  14.21798721844404,Picturesque island with beautiful landscapes and crystal-clear waters.,2,,,,natural
-469,Amalfi Coast, South of Naples,3,40.63338333735205  14.602907792378492,"Spectacular coastline with dramatic cliffs and charming fishing villages. spaces, trees, and small lakes.",4,,,,natural
-470,Positano," Amalfi Coast, south of Naples",3,40.63753252309692  14.490731635774857,Picturesque village with colorful houses and stunning coastal views. landscapes,4,,,,natural
-471,Pompeii,Near Mount Vesuvius,3,40.745441803385894  14.496771126764118,Archaeological site with well-preserved ruins of the ancient Roman city.,4,,,,natural
-472,Herculaneum,Near Mount Vesuvius,3,40.76053181670142  14.501220400355097,Well-preserved archaeological site showcasing ancient Roman ruins.,4,,,,natural
-473,Phlegraean Fields (Campi Flegrei,West of Naples,3,40.82810175739164  14.138656445334528,"Volcanic area with craters, hot springs, and the Solfatara volcano.",3,,,,natural
-474,Procida Island:, Off the coast of Naples,3,40.7617477893801  14.019014832263997,Picturesque island with colorful houses and serene beaches,4,,,,natural
-475,Ischia Island,Gulf of Naples,3,40.75542807742513  13.90939044952321," Volcanic island with thermal spas, gardens, and scenic coastline.",4,,,,natural
-476,Sorrento Peninsula, South of Naples,3,41.43602264813373  14.813181301443024,"Peninsula with stunning views, charming towns, and fragrant lemon groves.",5,,,,natural
-477,Naples Botanical Garden (Orto Botanico di Napoli),"Via Foria, Naples",3,40.86155175527325  14.262273581015318,Lush botanical garden with diverse plant species and serene ponds.,2,,,,natural
-478,Baia Underwater Archaeological Park,Bay of Naples,3,40.82133468558626  14.077731318295472,Underwater park with submerged ancient Roman ruins.,5,,,,natural
-479,Vesuvius National Park, Surrounding Mount Vesuvius,3,40.82826829003908  14.425831338685462, National park with hiking trails and volcanic landscapes.,4,,,,natural
-480,Grotta dello Smeraldo (Emerald Grotto)," Conca dei Marini, Amalfi Coast",3,40.615245256389954  14.566995109837823, Captivating sea cave with emerald-green waters and impressive stalactite formations.,2,,,,natural
-481,Villa Doria d'Angri Park,"Vomero district, Naples",3,40.7377877521514  14.572155596352422,Tranquil park with gardens and scenic views of the city and bay.,2,,,,natural
-482,Parco Virgiliano,"Posillipo district, Naples",3,40.83078558523079  14.21802783867433,Hilltop park with panoramic views of Naples and the surrounding islands.,2,,,,natural
-483,Astroni Crater Nature Reserve," Agnano district, Naples",3,40.84050813939514  14.159360882865974,"Nature reserve with a volcanic crater, hiking trails, and a scenic lake.",4,,,,natural
-484,Piazza del Plebiscito,"Piazza del Plebiscito, Naples",3,40.83606498408262  14.248587144506, Grand square with historic buildings and a view of the Bay of Naples.,2,,,,natural
-485,Naples Underground (Napoli Sotterranea)," Piazza San Gaetano 68, Naples",3,40.83816546085054  14.24548628253836, Intriguing underground tunnels with historical significance.,2,,,,natural
-486,Villa Floridiana,"Via Cimarosa 77, Naples",3,40.84253848555064  14.228978065670352,"Scenic park with gardens, panoramic views, and a museum showcasing decorative arts.",5,,,,natural
-487,Giardini della Biennale,"Castello, 30122 Venice, Italy",5,45.4289528775356 12.358059137969603,Giardini della Biennale is a beautiful park located in the Castello district of Venice. It is known for its lush greenery and picturesque pathways.,4,,,,natural
-488,Lido di Venezia,"Lido, 30126 Venice, Italy",5,45.39192603199097 12.353095727323561,"Lido di Venezia is a long sandbar that stretches along the Adriatic Sea. It is a popular beach destination where visitors can relax, sunbathe, and enjoy various water activities.",4,,,,natural
-489,Parco delle Rimembranze,"Cannaregio, 30121 Venice, Italy",5,45.4267952591565 12.359675805668248,Parco delle Rimembranze is a park situated in the Cannaregio district of Venice. It offers a serene atmosphere with its well-maintained gardens.,3,,,,natural
-490,Sant'Elena Park,"Castello, 30122 Venice, Italy",5,45.428424330959714 12.364828064401905,"Sant'Elena Park is a peaceful green space located in the Castello district. It features beautiful lawns, walking paths, and a playground.",5,,,,natural
-491,Bacino San Marco,"San Marco, 30124 Venice, Italy",5,45.433191477323014 12.340831353312765,Bacino San Marco is a stunning waterfront area in the San Marco district. It offers breathtaking views of the Venetian lagoon and is a popular spot for romantic walks.,4,,,,natural
-492,St. Mark's Square,"P.za San Marco, 30100 Venezia VE, Italy",5,45.43653864398551 12.338113197556172,Iconic square & gathering place dating back to the 12th century & dominated by St. Mark's Basilica.,2,,,,natural
-493,Alberoni Beach,"Alberoni, 30126 Venice, Italy",5,45.35001652952286 12.329761209534581,Alberoni Beach is a secluded sandy beach located on the Lido island. It offers a tranquil escape from the city.,3,,,,natural
-494,Parco Piraghetto,"Via Piraghetto, 30175 Marghera, Venice, Italy",5,45.490015091966534 12.227137962445024,"Parco Piraghetto is a charming park situated in Marghera, a town near Venice. It features walking paths, green lawns, and a small lake.",5,,,,natural
-495,Parco Morosini,"Santa Croce, 30135 Venice, Italy",5,45.47154210154293 12.28067157874872,"Parco Morosini is a small park located in the Santa Croce district. It provides a pleasant green space with benches, trees, and a fountain",2,,,,natural
-496,Bacino Orseolo,"San Marco, 30124Venice, Italy",5,45.434235659445854 12.336915609134252,Bacino Orseolo is a picturesque canal basin situated in the San Marco district. It is known for its charming gondolas and beautiful architecture surrounding the water.,2,,,,natural
-497,Parco Savorgnan,"Santa Croce, 30135 Venice, Italy",5,45.44356215582208 12.323705353313516,"Parco Savorgnan is a small park located in the Santa Croce district. It offers a peaceful setting with benches, trees, and a charming fountain.",5,,,,natural
-498,Laguna Veneta,"Venice, Italy",5,45.356210795666804 12.273570921757564,Laguna Veneta refers to the vast lagoon surrounding the city of Venice. It is a unique natural ecosystem with a diverse range of flora and fauna.,3,,,,natural
-499,Parco San Francesco della Vigna,"Castello, 30122 Venice, Italy",5,45.44443782028774 12.323853752195813,"Parco San Francesco della Vigna is a historic park located in the Castello district. It features well-manicured gardens, ancient trees, and a peaceful atmosphere.",2,,,,natural
-500,Isola di San Pietro,"Venice, Italy",5,45.434482363194924 12.360037701543943,Isola di San Pietro is a picturesque island situated in the Venetian lagoon. It offers a tranquil escape from the city's crowds.,4,,,,natural
-501,Parco San Giacomo dell'Orio,"Santa Croce, 30135 Venice, Italy",5,45.443143269104496 12.327772920464284,"Parco San Giacomo dell'Orio is a lovely park located in the Santa Croce district. It features open green spaces, shady trees, and a central square.",2,,,,natural
-502,Parco Papadopoli,"Santa Croce, 30135 Venice, Italy",5,45.43984756599932 12.320772556582982,"Parco Papadopoli is a charming park situated in the Santa Croce district. It features well-maintained gardens, tree-lined paths, and a central fountain.",2,,,,natural
-503,Isola di San Michele,"Venice, Italy",5,45.4467254272434 12.34676706396202,"Isola di San Michele is a small island in the Venetian lagoon. It serves as the main cemetery of Venice, known for its serene atmosphere and beautiful funerary art.",4,,,,natural
-504,Parco Bissuola,"Via Alvise Cadamosto, 30173 Mestre, Venice, Italy",5,45.499703990888875 12.266267326331747,"Parco Bissuola is a large park located in the Mestre district. It offers extensive green spaces, walking paths, and sports facilities. The park is a great place for outdoor activities.",3,,,,natural
-505,Punta della Dogana,"Dorsoduro, 30123 Venice, Italy",5,45.4311132123022 12.336907897491246,"Punta della Dogana is a prominent point in the Dorsoduro district of Venice. It offers stunning panoramic views of the city, including the Grand Canal and the surrounding islands.",3,,,,natural
-506,Parco Albanese,"Via Francesco Baracca, 30174 Mestre, Venice, Italy",5,45.49975663072412 12.266181495645982,"Parco Albanese is a spacious park situated in the Mestre district. It features lush green areas, walking trails, and recreational facilities.",2,,,,natural
-507,Isola di Burano,"Venice, Italy",5,45.48573522163991 12.416705333287123,Isola di Burano is a colorful island located in the Venetian lagoon. It is known for its vibrant houses and lace-making tradition. ,2,,,,natural
-508,Mount Vesuvius,Arno Islands (Near Florence),4,43.833901714332484  11.002319543640752," A group of small islands in the Arno River, offering tranquil green spaces and beautiful natural views.",2,,,,natural
-509,Capri Island,Parco Nazionale di Vallombrosa (Near Reggello),4,43.73341669757307  11.554358036814268," A natural reserve known for dense forests, stunning landscapes, and beautiful hiking trails.",4,,,,natural
-510,Amalfi Coast,Lake Bilancino (Near Barberino di Mugello),4,43.98168778877407  11.26934898476147," A picturesque lake surrounded by hills, offering opportunities for water sports, picnicking, and relaxation.",2,,,,natural
-511,Positano,Mugello Region (North of Florence) ,4,43.95101268605907  11.399728286547493," A scenic area known for its rolling hills, charming villages, and natural beauty, perfect for leisurely drives or bike rides.",5,,,,natural
-512,Pompeii,Mount Falterona (Near Stia),4,43.87503343499283  11.696444103191356," A mountain in the Casentino Forests, providing hiking trails, panoramic views, and the source of the Arno River.",3,,,,natural
-513,Herculaneum,Parco Naturale delle Foreste Casentinesi (Casentino Forests) ,4,43.957023590052835 11.735273825341345,"A national park with ancient forests, wildlife, and numerous hiking trails, including the famous Camaldoli Hermitage.",2,,,,natural
-514,Phlegraean Fields (Campi Flegrei,Montalbano Hills (West of Florence),4,43.8667044892783 10.867802581394493,"A hilly area with olive groves, vineyards, and charming medieval villages, offering panoramic views of the surrounding countryside.",3,,,,natural
-515,Procida Island:,Mugello Circuit (Near Scarperia) ,4,43.99612051658606  11.371060867671842,"A world-renowned racetrack surrounded by green hills, hosting international motorsport events and offering driving experiences.",4,,,,natural
-516,Ischia Island,Parco di Montececeri (Fiesole) ,4,43.79415923726827  11.304049281152377,"A park located on Montececeri hill, known for its walking paths, picnic areas, and stunning views of the city of Florence.",4,,,,natural
-517,Sorrento Peninsula,Boboli Gardens (Piazza de' Pitti) ,4,43.76265988950077 11.248356681150524,"Historic gardens behind the Pitti Palace, featuring beautiful landscaping, sculptures, and panoramic views.",5,,,,natural
-518,Naples Botanical Garden (Orto Botanico di Napoli),"Giardino Bardini (Costa San Giorgio, 2)",4,43.76408609908387  11.256138309986481," Renaissance-style garden with terraces, statues, and stunning views of Florence.",4,,,,natural
-519,Baia Underwater Archaeological Park,Cascine Park (Viale degli Olmi) ,4,43.783235821378135 11.216730785980964," Large public park along the Arno River, perfect for picnics, walking, and cycling.",4,,,,natural
-520,Vesuvius National Park,"Villa Demidoff Park (Via Fiorentina, 276)",4,43.85987754533808  11.30358570999208,Park located outside Florence featuring a monumental statue of Colosso dell'Appennino.,5,,,,natural
-521,Grotta dello Smeraldo (Emerald Grotto),"Fiesole (Via San Francesco, 18) ",4,43.80008570020767  11.290840521782494,"Picturesque town on a hilltop near Florence, offering stunning views of the city and the surrounding countryside.",2,,,,natural
-522,Villa Doria d'Angri Park,Monte Ceceri (Fiesole),4,43.797947940087155  11.303797627224053,Hill known for its beautiful hiking trails and panoramic views of Florence and the Tuscan landscape.,5,,,,natural
-523,Parco Virgiliano,Piazzale Michelangelo (Viale Michelangelo) ,4,43.76255680165892  11.264898209986455,Square with a bronze replica of Michelangelo's David and a terrace offering breathtaking views of Florence.,4,,,,natural
-524,Astroni Crater Nature Reserve,Parco delle Cascine (Viale degli Olmi) ,4,43.78294295081655  11.21690066765942,"Large park with walking paths, sports facilities, and a riverside promenade along the Arno River.",2,,,,natural
-525,Piazza del Plebiscito,"Parco di Villa Strozzi (Via Pisana, 37) ",4,43.77249261552232  11.230333025330612,"Historic park with beautiful gardens, woods, and a pond, perfect for a peaceful stroll.",3,,,,natural
-526,Naples Underground (Napoli Sotterranea),Parco della Villa Fabbricotti (Via Vittorio Emanuele II),4,44.74633952816351  10.599106936010577," Park with lush greenery, a lake, and walking trails, providing a tranquil escape in the city.",5,,,,natural
-527,Villa Floridiana,Parco delle Cascine di Tavola (Reggello) ,4,43.846466421590144 11.0618133099913,"Nature reserve located outside Florence, known for its forests, hiking trails, and scenic beauty.",4,,,,natural
-528,Hotel Quirinale,"Via Nazionale 7, Central Station, 00184 Rome, Italy",1,41.90182202037885 12.494873553074376,,,5,,200,hotel
-529,Hotel Hassler Roma,"Piazza della Trinita dei Monti, 6, 00187 Rome, Italy",1,41.906092743874524 12.484043924238929,,,3,,90,hotel
-530,The St. Regis Rome,"Via Vittorio Emanuele Orlando, 3, 00185 Rome, Italy",1,41.90416749222035 12.49482998006026,,,2,,50,hotel
-531,"Rome Cavalieri, A Waldorf Astoria Hotel","Via Alberto Cadlolo, 101, 00136 Rome, Italy",1,41.918979375018125 12.446569334032556,,,5,,150,hotel
-532,Palazzo Manfredi,"Via Labicana, 125, 00184 Rome, Italy",1,41.89034133388365 12.495560980059329,,,3,,120,hotel
-533,Hotel Eden - Dorchester Collection,"Via Ludovisi, 49, 00187 Rome, Italy",1,41.90679538161047 12.486303322388942,,,5,,250,hotel
-534,Gran MeliÌÁ Rome Villa Agrippina,"Via del Gianicolo, 3, 00165 Rome, Italy",1,41.89915022839809 12.461118495402745,,,4,,200,hotel
-535,Hotel de Russie - Rocco Forte,"Via del Babuino, 9, 00187 Rome, Italy",1,41.91011114243399 12.477447366567763,,,5,,80,hotel
-536,Grand Hotel de la Minerve,"Piazza della Minerva, 69, 00186 Rome, Italy",1,41.89778220180332 12.477604995402661,,,4,,120,hotel
-537,The Westin Excelsior Rome,"Via Vittorio Veneto, 125, 00187 Rome, Italy",1,41.907870017589 12.490085824239056,,,4,,400,hotel
-538,Boscolo Exedra,"Piazza della Repubblica, 47, 00185 Rome, Italy",1,41.9026154377316 12.495568191110168,,,3,,100,hotel
-539,Hotel de Ricci,"Via della Barchetta, 14, 00186 Rome, Italy",1,41.89626312055495 12.468818281909737,,,5,,90,hotel
-540,Hotel Raphael - Relais & ChÌ¢teaux,"Largo Febo, 2, 00186 Rome, Italy",1,41.900151982199965 12.472093695402847,,,4,,140,hotel
-541,Hotel Indigo Rome - St. George,"Via Giulia, 62, 00186 Rome, Italy",1,41.898346501687016 12.4661624800598,,,4,,240,hotel
-542,The First Roma Dolce,"Via del Vantaggio, 14, 00186 Rome, Italy",1,41.90759668388538 12.477888085839808,,,5,,350,hotel
-543,Hotel Artemide,"Via Nazionale, 22, 00184 Rome, Italy",1,41.901473378399785 12.493354288002738,,,4,,250,hotel
-544,Aleph Rome Hotel,"Via di San Basilio, 15, 00187 Rome, Italy",1,41.90547539981711 12.489989651224544,,,3,,100,hotel
-545,iQ Hotel Roma,"Via Firenze, 8, 00184 Rome, Italy",1,41.90063451071497 12.495210880059954,,,4,,200,hotel
-546,Hotel Locarno,"Via della Penna, 22, 00186 Rome, Italy",1,41.90980551499586 12.47472659540348,,,4,,300,hotel
-547,Hotel Vilon,"Via dell'Arancio, 69, 00186 Roma RM, Italy",1,41.9059421938531 12.476676105313542,,,5,,350,hotel
-548,Hotel Splendide Royal,"Via di Porta Pinciana, 14, 00187 Rome, Italy",1,41.90809521694122 12.486773281910532,,,4,,140,hotel
-549,Hotel Adriano,"Via di Pallacorda, 2, 00186 Rome, Italy",1,41.90228219233538 12.475510480060118,,,3,,250,hotel
-550,Hotel Quattro Fontane,"Via delle Quattro Fontane, 16, 00184 Rome, Italy",1,41.90023416969737 12.499937249907134,,,3,,200,hotel
-551,Hotel Isa,"Via Cicerone, 39, 00193 Rome, Italy",1,41.907065335168696 12.468977924238992,,,5,,150,hotel
-552,Hotel Santa Maria,"Vicolo del Piede, 2, 00153 Roma RM, Italy",1,41.891722104369606 12.47041029886061,,,2,,100,hotel
-553,Hotel San Anselmo,"Piazza SantAnselmo, 2, 00153 Rome, Italy",1,41.882233500795216 12.479393637730261,,,2,,80,hotel
-554,Hotel Forum,"Via Tor de Conti, 25-30, 00184 Rome, Italy",1,41.894095170853824 12.487707424238144,,,3,,150,hotel
-555,Hotel Majestic Roma,"Via Vittorio Veneto, 50, 00187 Rome, Italy",1,41.90570918419164 12.48778916471744,,,5,,350,hotel
-556,Hotel Ponte Sisto,"Via dei Pettinari, 64, 00186 Rome, Italy",1,41.8934933775578 12.472037672116816,,,4,,200,hotel
-557,Hotel Mozart,"Via dei Greci, 23, 00187 Rome, Italy",1,41.90790507870516 12.477850548149615,,,4,,150,hotel
-558,"Four Seasons Hotel Milano 1","Via Gesu, 6/8, 20121 Milano MI, Italy",2,45.4692189063453 9.195258206708136,,,5,,50,hotel
-559,Baglioni Hotel Carlton,"Via Senato, 5",2,45.47292694643953 9.192488517486964,,,4,,150,hotel
-560,Armani Hotel," Via Manzoni, 31",2,45.4707174004707 9.19288253554521,,,5,,120,hotel
-561,Grand Hotel et de Milan ," Via Manzoni, 29",2,45.47000892541901 9.192433162539787,,,5,,250,hotel
-562,The Westin Palace,"Piazza della Repubblica, 20",2,45.478795894235176 9.199260922058958,,,4,,200,hotel
-563,Bulgari Hotel Milan,"Via Privata Fratelli Gabba, 7/B",2,45.470010465030136 9.189530535542609,,,5,,80,hotel
-564,Hotel Principe di Savoia,"Piazza della Repubblica, 17",2,45.48410826577781 9.197782925717764,,,4,,120,hotel
-565,ME Milan Il Duca," Piazza della Repubblica, 13",2,45.47949634477958 9.196094717926911,,,5,,400,hotel
-566,NH Collection Milano President," Largo Augusto, 10",2,45.46331771021254 9.197736218528945,,,3,,100,hotel
-567,Rosa Grand Milano," Piazza Fontana, 3",2,45.46397430674375 9.19401588124518,,,3,,90,hotel
-568,Excelsior Hotel Gallia,"Piazza Duca d'Aosta, 9",2,45.48593476971682 9.201355440750017,,,4,,140,hotel
-569,Sheraton Milan Malpensa Hotel,Aeroporto Malpensa 2000,2,45.62762814690808 8.711160620236834,,,4,,240,hotel
-570,Hotel Milano Scala," Via dell'Orso, 7",2,45.469344926070406 9.1867449397892,,,5,,350,hotel
-571,Hotel Principe Di Savoia,"Piazza della Repubblica, 17",2,45.48262574457176 9.196575528394675,,,4,,250,hotel
-572,Room Mate Giulia," Via Silvio Pellico, 4",2,45.4656118269547 9.189569867335985,,,3,,100,hotel
-573,Hotel Manin,"Via Manin, 7",2,45.47413633962939 9.195885902177052,,,4,,200,hotel
-574,Hotel VIU Milan,"Via Aristotile Fioravanti, 6",2,45.48358472501871 9.177702710453234,,,4,,300,hotel
-575,NH Milano Touring,"Via Ugo Tarchetti, 2",2,45.47704118369528 9.196511518383016,,,5,,350,hotel
-576,Uptown Palace," Via Santa Sofia, 10",2,45.457745592531495 9.191981835581872,,,4,,140,hotel
-577,UNAHOTELS Cusani Milano," Via Cusani, 13",2,45.468816293964956 9.18345920354451,,,3,,250,hotel
-578,Hotel Dei Cavalieri," Piazza Giuseppe Missori, 1",2,45.46119844180991 9.188696577909345,,,3,,200,hotel
-579,Hotel Pierre Milano,"Via De Amicis, 32",2,45.459695370787884 9.17684558335797,,,3,,150,hotel
-580,Hotel Magna Pars,"Via Forcella, 6",2,45.45359793734293 9.166845211062736,,,2,,100,hotel
-581,Hotel Straf ," Via San Raffaele, 3",2,45.465504002334434 9.191000785744498,,,2,,80,hotel
-582,Hotel Milano Navigli," Alzaia Naviglio Grande, 8",2,45.4535074540873 9.18053673342967,,,3,,150,hotel
-583,Hotel VIU Milan," Via Aristotile Fioravanti, 6",2,45.48347941506482 9.177380845365473,,,5,,350,hotel
-584,NYX Hotel Milan," Piazza Quattro Novembre, 3",2,45.48729333072683 9.201819679763164,,,4,,200,hotel
-585,B&B Hotel Milano San Siro,"Via Achille Zezon, 6",2,45.480704191177196 9.123438396614663,,,3,,150,hotel
-586,Grand Hotel Vesuvio," Via Partenope, 45, 80121 Naples NA, Italy.",3,40.8380872423375  14.251142580360971,,,2,,50,hotel
-587,Romeo Hotel,"Via Cristoforo Colombo, 45, 80133 Naples NA, Italy.",3,40.8415235847282  14.255424027913602,,,4,,150,hotel
-588,Hotel Excelsior,"Via Partenope, 48, 80121 Naples NA, Italy",3,40.83017537722135  14.249590309849587,,,3,,120,hotel
-589,Eurostars Hotel Excelsior,"Via Partenope, 48, 80121 Naples NA, Italy.",3,40.83013287961239  14.24959166980103,,,5,,250,hotel
-590,UNAHOTELS Napoli," Piazza Giuseppe Garibaldi, 9/10, 80142 Naples NA, Italy.",3,40.85190701664029  14.267408565670854,,,4,,200,hotel
-591,Palazzo Caracciolo Napoli,"Via Partenope, 38/44, 80121 Naples NA, Italy.",3,40.85497359566896  14.261410152178977,,,3,,80,hotel
-592,Grand Hotel Parker's,"at Corso Vittorio Emanuele, 135, 80121 Naples NA, Italy.",3,40.837277130965525  14.22995420984997,,,4,,120,hotel
-593,Hotel Piazza Bellini,"Via Santa Maria di Costantinopoli, 101, 80138 Naples NA, Italy.",3,40.85065983457499  14.251679781014692,,,5,,400,hotel
-594,Hotel San Francesco al Monte,"Corso Vittorio Emanuele, 328, 80135 Naples NA, Italy.",3,40.84348264951901  14.244504896358173,,,3,,100,hotel
-595,Palazzo Alabardieri," Via Alabardieri, 38, 80121 Naples NA, Italy.",3,40.83948384215477  14.248806140537877,,,3,,90,hotel
-596,Hotel Santa Brigida,"Via Santa Brigida, 6, 80132 Naples NA, Italy.",3,40.839475725311566  14.248752496357996,,,4,,140,hotel
-597,Renaissance Naples Hotel Mediterraneo,"Via Ponte di Tappia, 25, 80133 Naples NA, Italy.",3,40.841184154304585  14.25057653868617,,,4,,240,hotel
-598,Palazzo Salgar,"Via dei Mille, 64, 80121 Naples NA, Italy.",3,40.846400339537716  14.263999681014445,,,5,,350,hotel
-599,Grand Hotel Oriente," Via Armando Diaz, 44, 80134 Naples NA, Italy.",3,40.84267343473535  14.25024925403015,,,4,,250,hotel
-600,Hotel San Pietro," Via San Pietro ad Aram, 18, 80138 Naples NA, Italy.",3,40.86655360560546  14.264098590590391,,,3,,100,hotel
-601,Hotel Paradiso,"Via Ottavio Tupputi, 9, 80139 Napoli NA, Italy",3,40.84686993722129 14.207105328101061,,,4,,200,hotel
-602,Hotel Palazzo Esedra," Piazza Giovanni Bovio 22, near the central train station.",3,40.83513338990712  14.24949648427931,,,4,,300,hotel
-603,Hotel Cavour, Situated in the historic center at Piazza Garibaldi 32.,3,40.8531982444697  14.26837422334287,,,5,,350,hotel
-604,Hotel Micalo,"Riviera di Chiaia 88, close to the waterfront and Castel dell'Ovo.",3,40.833002371336825  14.2269902810137,,,4,,140,hotel
-605,Hotel Albergo del Golfo," Via Sedile di Porto 23, offering views of the Gulf of Naples.",3,40.84468817945561  14.255018396358246,,,3,,250,hotel
-606,Hotel Piazza Bellini & Apartments,"Via S. Maria di Costantinopoli 101, near Piazza Bellini.",3,40.85065983457499  14.251744154030545,,,3,,200,hotel
-607,Hotel Piazza Bellini & Apartments," Via S. Maria di Costantinopoli 101, near Piazza Bellini.",3,40.85064360362496  14.2517656117025,,,3,,150,hotel
-608,Hotel San Francesco,"at Corso Umberto I 104, in a former monastery in the historic center.",3,40.84344206774152  14.24448343868621,,,2,,100,hotel
-609,B&B Hotel,"P.za Giuseppe Garibaldi, 32, 80142 Napoli NA, Italy",3,40.85418564145672 14.267898931865965,,,2,,80,hotel
-610,Grand Hotel Vesuvio,"Via Partenope, 45, 80121 Napoli NA, Italy",3,40.83135039491359 14.24801363748908,,,3,,150,hotel
-611,Hotel Royal Prisco,"Via Posillipo 394, in the picturesque neighborhood of Posillipo.",3,40.63045456489176 14.484690367510648,,,5,,350,hotel
-612,Hotel Miramare,"Via Nazario Sauro 24, in the Mergellina neighborhood, overlooking the sea.",3,40.8345205563515  14.250919591906811,,,4,,200,hotel
-613,Hotel Nuvo," Nuova Agnano 5, in the Fuorigrotta district, close to sports facilities and exhibition centers.",3,40.81729995220598  14.175692428825293,,,3,,150,hotel
-614,Hotel Monaco & Grand Canal,"P.za San Marco, 1332/1238, 30100 Venezia VE, Italy",5,45.43247376656437 12.33693429312769,,,4,,300,hotel
-615,Aman Venice,"Calle Tiepolo, 1364, 30125 Venezia VE, Italy",5,45.4370591312262 12.331537896157487,,,5,,400,hotel
-616,Hilton Molino Stucky Venice,"Giudecca, 810, 30133 Venezia VE, Italy",5,45.42832807795654 12.320250184514691,,,5,,400,hotel
-617,Palazzo Veneziano,"Fondamenta Zattere Al Ponte Lungo, 1413, 30123 Venezia VE, Italy",5,45.430805278570915 12.322806326843253,,,5,,500,hotel
-618,Canal Grande Hotel,"Campiello S. Simeone Grande, 932, 30135 Venezia VE, Italy",5,45.441545457789296 12.324089499857577,,,4,,180,hotel
-619,Hotel NH Venezia Santa Lucia,"Rio Tera Lista di Spagna, 116/A, 30121 Venezia VE, Italy",5,45.44206486970939 12.322694751213914,,,4,,100,hotel
-620,Hotel Metropole,"Riva degli Schiavoni, 4149, 30122 Venezia VE, Italy",5,45.43416579309345 12.345199798007531,,,4,,200,hotel
-621,Rialto Unique Venice Experience,"Riva del Ferro, 5149, 30124 Venezia VE, Italy",5,45.437810685697734 12.336145957529016,,,3,,120,hotel
-622,Splendid Venice - Starhotels Collezione,"Mercerie, 760, 30124 Venezia VE, Italy",5,45.4362974887801 12.337454875486914,,,5,,140,hotel
-623,Hotel Papadopoli Venezia - MGallery,"Santa Croce 245, Giardini Papadopoli, 30135 Venezia VE, Italy",5,45.43810234176103 12.321170597292884,,,5,,380,hotel
-624,NH Collection Venezia Grand Hotel Palazzo dei Dogi,"Fondamenta Madona de l'Orto, 3500, 30121 Venezia VE, Italy",5,45.44677228053236 12.330962044553909,,,4,,250,hotel
-625,Hotel Ai Reali,"Calle Seconda de la Fava, 5527, 30122 Venezia VE, Italy",5,45.43717152208364 12.337866866196691,,,3,,150,hotel
-626,Hotel Abbazia,"Calle Priuli dei Cavaletti, 68, 30121 Venezia VE, Italy",5,45.442102867144534 12.321713271093067,,,4,,250,hotel
-627,Hotel Carlton on the Grand Canal,"Fondamenta del Monastero, 578, 30135 Venezia VE, Italy",5,45.44003986955301 12.322072850853809,,,4,,400,hotel
-628,Venezia Palazzo Barocci,"Corte de l'Albero, 3878 A, 30124 Venezia VE, Italy",5,45.43547811055205 12.330291920168044,,,5,,400,hotel
-629,Hotel Santa Chiara,"Santa Croce, 30135 Venezia VE, Italy",5,45.438603807157115 12.31954045760023,,,4,,300,hotel
-630,Hotel Principe,"Rio Tera Lista di Spagna, 146, 30121 Venezia VE, Italy",5,45.4421781223947 12.323493855750185,,,4,,250,hotel
-631,Hotel Saturnia & International Venezia,"Calle Larga XXII Marzo, 2398, 30124 Venezia VE, Italy",5,45.43289384260228 12.334244324348854,,,5,,200,hotel
-632,Al Ponte Antico,"Calle Aseo, 5768, 30125 Venezia VE, Italy",5,45.43883280090976 12.336442082191128,,,5,,150,hotel
-633,Ca 'Nigra Lagoon Resort,"Campiello S. Simeone Grande, 927, 30135 Venezia VE, Italy",5,45.44101194059503 12.324149029606392,,,4,,200,hotel
-634,Hotel Florida,"Calle Priuli dei Cavaletti, 106/A, 30121 Venezia VE, Italy",5,45.44192055891206 12.32209129992879,,,4,,180,hotel
-635,Hotel Royal San Marco,"S. Marco, 848, 30124 Venezia VE, Italy",5,45.43469546179546 12.337708262496605,,,3,,100,hotel
-636,Duodo Palace Hotel,"San Marco, Calle Minelli 1887-1888, 30124 Venezia VE, Italy",5,45.43445400477284 12.333902955750185,,,4,,150,hotel
-637,UNAHOTELS Ala Venezia,"Campo Santa Maria del Giglio, 2494, 30124 Venezia VE, Italy",5,45.43241607190943 12.332712528764507,,,5,,250,hotel
-638,Aqua Palace Hotel,"Calle de la Malvasia, 5492, 30122 Venezia VE, Italy",5,45.436656701907665 12.33859571527167,,,4,,250,hotel
-639,Hotel Antiche Figure,"Santa Croce, 687 Fondamenta San Simeon Piccolo, 30135 Venezia VE, Italy",5,45.440310952992455 12.322079806675207,,,3,,100,hotel
-640,Hotel Monaco & Grand Canal,"P.za San Marco, 1332/1238, 30100 Venezia VE, Italy",5,45.43240380090029 12.336923042257345,,,4,,200,hotel
-641,Hilton Molino Stucky,"Giudecca, 810, 30133 Venezia VE, Italy",5,45.428284783274904 12.320282371093064,,,5,,500,hotel
-642,Hotel Iris,"Campo S. Toma, 2910, 30125 Venezia VE, Italy",5,45.43626333767644 12.32633957668725,,,2,,50,hotel
-643,Corte Canal Venice,"Corte Canal, 645a, 30135 Venezia VE, Italy",5,45.439906989046 12.324022148171627,,,2,,60,hotel
-644,Hotel Brunelleschi," Piazza Santa Elisabetta 3, Florence",4,43.77187866442428  11.255716352315137,,,2,,50,hotel
-645,Hotel Savoy,"Piazza della Repubblica 7, Florence",4,43.772025669440794  11.254535938822873,,,4,,150,hotel
-646,Portrait Firenze," Lungarno degli Acciaiuoli 4, Florence",4,43.76909262565899  11.252768552315045,,,3,,120,hotel
-647,Hotel Lungarno,"Borgo San Jacopo 14, Florence",4,43.7680979036615  11.251519862780485,,,5,,250,hotel
-648,Hotel Continentale,"Vicolo dell'Oro 6R, Florence",4,43.768992081541775 11.253466611838112,,,4,,200,hotel
-649,Hotel Bernini Palace,"Piazza di San Firenze 29, Florence",4,43.7693921759225  11.25760419649448,,,3,,80,hotel
-650,Four Seasons Hotel Firenze," Borgo Pinti 99, Florence",4,43.77710327716274  11.266366038823241,,,4,,120,hotel
-651,Hotel degli Orafi," Lungarno degli Archibusieri 4, Florence",4,43.76825433538948  11.254589283002199,,,5,,400,hotel
-652,Hotel Ville sull'Arno,"Lungarno Cristoforo Colombo 1, Florence",4,43.765909947936315  11.284702267658414,,,3,,100,hotel
-653,The St. Regis Florence," Piazza Ognissanti 1, Florence",4,43.77259716426933  11.24498097150814,,,3,,90,hotel
-654,Hotel Mulino di Firenze,"Via Villamagna 119, Florence",4,43.76251869875749  11.317015969509528,,,4,,140,hotel
-655,Hotel Degli Artisti," Via del Giglio 87, Florence",4,43.777188844213555 11.242873688847778,,,4,,240,hotel
-656,J.K. Place Firenze,"Piazza Santa Maria Novella 7, Florence",4,43.77303403117064  11.249815425330596,,,5,,350,hotel
-657,Hotel Santa Maria Novella," Piazza Santa Maria Novella 1, Florence",4,43.77354721279  11.250084709987073,,,4,,250,hotel
-658,Hotel Torre Guelfa,"Borgo Santi Apostoli 8, Florence",4,43.769355333107605  11.252901983002284,,,3,,100,hotel
-659,Hotel Palazzo Vecchio," Via Solferino 2, Florence",4,43.77802326863081 11.249934796495001,,,4,,200,hotel
-660,Hotel Albani Firenze,"Via Fiume 12, Florence",4,43.777285237050485 11.25007129279237,,,4,,300,hotel
-661,NH Collection Firenze Porta Rossa,"Via Porta Rossa 19, Florence",4,43.77024927877319 11.252006254166389,,,5,,350,hotel
-662,Hotel Rivoli,": Via della Scala 33, Florence",4,43.77436617573765  11.247264667658953,,,4,,140,hotel
-663,Hotel Balestri,"Piazza Mentana 7, Florence",4,43.76733464150673 11.257967496494427,,,3,,250,hotel
-664,Hotel Cerretani Firenze - MGallery by Sofitel,"Via de' Cerretani 10, Florence",4,43.77375053574843  11.252279580099493,,,3,,200,hotel
-665,Hotel Home Florence,"Piazza Piave 3, Florence",4,43.76698064214859 11.268039956017486,,,3,,150,hotel
-666,Hotel L'Orologio," Piazza Santa Maria Novella 24, Florence",4,43.77363602423512  11.250259225330653,,,2,,100,hotel
-667,Hotel Spadai," Via dei Martelli 10, Florence",4,43.77535387810771  11.255842275212544,,,2,,80,hotel
-668,Hotel Calzaiuoli,"Via Calzaiuoli 6, Florence",4,43.77144608141184  11.255318852315126,,,3,,150,hotel
-669,Hotel degli Orafi,"Lungarno degli Archibusieri 4, Florence",4,43.768269830908004  11.254546367658591,,,5,,350,hotel
-670,Hotel Loggiato dei Serviti," Piazza Santissima Annunziata 3, Florence",4,43.77677915109262  11.259993496494953,,,4,,200,hotel
-671,Hotel Tornabuoni Beacci,"Via de' Tornabuoni 3, Florence",4,43.77051305810226  11.25123852533046,,,3,,150,hotel
+277,Arch of Constantine,"Via di San Gregorio, 00186 Roma RM, Italy",1,41.889923087335376 12.490731839580757,"The Arch of Constantine is a triumphal arch in Rome, located near the Colosseum. It was built to commemorate the victory of Constantine the Great and is known for its well-preserved reliefs.",4,,,5,old
+278,Milan Cathedral," Piazza del Duomo, 20122 Milano MI, Italy.",2,45.46414163933181 9.191935903417761,"Milan Cathedral (Duomo di Milano) - This magnificent cathedral is one of the largest Gothic cathedrals in the world. Its elaborate facade and stunning interior features intricate sculptures, stained glass windows, and a rooftop terrace offering panoramic views of the city.",4,,,42,old
+279,Sforza Castle," Piazza Castello, 20121 Milano MI, Italy.",2,45.470498771643285 9.1793325," Sforza Castle (Castello Sforzesco) - A grand medieval fortress, Sforza Castle showcases a mix of architectural styles and houses several museums and art collections. Visitors can explore its courtyards, gardens, and historical rooms filled with sculptures and paintings.",3,,,55,old
+280,The Last Supper (Il Cenacolo)," Piazza di Santa Maria delle Grazie, 20123 Milano MI, Italy.",2,45.466244546673416 9.170604116823023,"The Last Supper (Il Cenacolo) - Housed in the refectory of the Convent of Santa Maria delle Grazie, Leonardo da Vinci's masterpiece, The Last Supper, depicts the biblical scene of Jesus and his disciples. It is renowned for its intricate details and use of perspective.",3,,,12,old
+281,Brera Art Gallery (Pinacoteca di Brera),"Via Brera, 28, 20121 Milano MI, Italy.",2,45.47203014780333 9.187813913908588,"Brera Art Gallery (Pinacoteca di Brera) - This art museum houses an impressive collection of Italian Renaissance and Baroque artworks. Visitors can admire masterpieces by artists such as Raphael, Caravaggio, and Titian.",3,,,51,old
+282,La Scala Opera House (Teatro alla Scala),"Via Filodrammatici, 2, 20121 Milano MI, Italy.",2,45.467439721452244 9.189551200000002,"Galleria Vittorio Emanuele II - Known as one of the world's oldest shopping malls, this elegant arcade is adorned with beautiful mosaics and features high-end boutiques, cafes, and restaurants. It connects Piazza del Duomo with Piazza della Scala.",3,,,42,old
+283,Galleria Vittorio Emanuele II,"Piazza del Duomo, 20123 Milano MI, Italy.",2,45.46620636798135 9.189758957622473," La Scala Opera House (Teatro alla Scala) - One of the most prestigious opera houses in the world, La Scala is renowned for its opulent interiors and exceptional acoustics. It has hosted renowned opera performances and ballets for centuries.",5,,,28,old
+284,Santa Maria delle Grazie,"Piazza di Santa Maria delle Grazie, 20123 Milano MI, Italy.",2,45.46603072031877 9.17094064228608,"Santa Maria delle Grazie - This UNESCO World Heritage site is a stunning example of Renaissance architecture. Apart from housing The Last Supper, the church itself boasts beautiful chapels, frescoes, and a tranquil courtyard.",4,,,17,old
+285,Navigli Canals,"Navigli District, 20123 Milano MI, Italy.",2,45.45145437455379 9.170989190785148,"Navigli Canals - Once used for transportation, the Navigli Canals now offer a lively atmosphere with numerous bars, restaurants, and art galleries. It's a popular spot to enjoy a leisurely stroll and take in the charming ambiance.",4,,,27,old
+286,Arch of Peace (Arco della Pace),"Piazza Sempione, 20154 Milano MI, Italy.",2,45.47578756272773 9.172458555656284,"Arch of Peace (Arco della Pace) - A neoclassical triumphal arch, the Arch of Peace stands at the entrance of Parco Sempione. It serves as a symbol of peace and commemorates Napoleon's victories.",2,,,31,old
+287,Basilica of Sant'Ambrogio," Piazza Sant'Ambrogio, 15, 20123 Milano MI, Italy.",2,45.46242702452528 9.175611999982229,"Basilica of Sant'Ambrogio - One of the oldest churches in Milan, this Romanesque basilica is dedicated to Saint Ambrose, the city's patron saint. It features impressive mosaics, a beautiful courtyard, and a rich history dating back to the 4th century.",2,,,17,old
+288,Leonardo da Vinci National Museum of Science and Technology,"Via San Vittore, 21, 20123 Milano MI, Italy.",2,45.46232504635221 9.170606469008959,"Leonardo da Vinci National Museum of Science and Technology - This museum pays homage to Leonardo da Vinci's genius and showcases his inventions, scientific studies, and artistic works. It offers interactive exhibits and educational displays.",4,,,15,old
+289,Museum of the Twentieth Century (Museo del Novecento),"Palazzo dell'Arengario, Via Marconi, 1, 20122 Milano MI, Italy.",2,45.463442351832015 9.190127838336407," Museum of the Twentieth Century (Museo del Novecento) - Located in the Palazzo dell'Arengario, this museum focuses on modern and contemporary art from the 20th century. It houses a diverse collection of paintings, sculptures, and installations.",2,,,20,old
+290,Porta Nuova District,"Porta Nuova, 20124 Milano MI, Italy.",2,45.47885001889914 9.19052513379982," Porta Nuova District - A modern urban redevelopment area, Porta Nuova is characterized by its sleek skyscrapers, public parks, and innovative architecture. It offers a vibrant mix of residential, commercial, and cultural spaces.",2,,,10,old
+291,San Maurizio al Monastero Maggiore,"Corso Magenta, 15, 20123 Milano MI, Italy.",2,45.46552859637119 9.178889271148357,"San Maurizio al Monastero Maggiore - Known as the Sistine Chapel of Milan,  this church features mesmerizing frescoes covering its walls and ceiling. It offers a glimpse into the artistic beauty of the Renaissance period.",5,,,9,old
+292,Church of San Lorenzor,"Corso di Porta Ticinese, 1, 20123 Milano MI, Italy.",2,43.775212713191046 11.25382435260368,"Church of San Lorenzo - With its Romanesque architecture and beautiful interior, the Church of San Lorenzo is a tranquil sanctuary in the bustling city. It houses notable artworks and is known for its serene atmosphere.",2,,,25,old
+293,Villa Necchi Campiglio," Via Mozart, 14, 20122 Milano MI, Italy.",2,45.46892041179797 9.202419603486316,Villa Necchi Campiglio - This elegant mansion-turned-museum showcases the luxurious lifestyle of the 20th-century Milanese upper class. ,3,,,0,old
+294,Piazza Mercanti,"Piazza Mercanti, 20123 Milano MI, Italy.",2,45.46466129796205 9.187633742311938,"Piazza Mercanti - Located in the heart of the historic center, Piazza Mercanti is a medieval square surrounded by stunning buildings with unique architectural details. It offers a glimpse into Milan's rich history and trade heritage.",3,,,10,old
+295,The Columns of San Lorenzo (Colonne di San Lorenzo),"Corso di Porta Ticinese, 35, 20123 Milano MI, Italy.",2,45.45836058260113 9.181057999973063,"The Columns of San Lorenzo (Colonne di San Lorenzo) - These ancient Roman columns stand as a testament to Milan's ancient past. The area around the columns is a popular gathering spot, especially in the evenings, with lively bars and restaurants.",4,,,8,old
+296,Royal Palace of Milan (Palazzo Reale) ," Piazza del Duomo, 12, 20122 Milano MI, Italy.",2,45.46326809458888 9.191168253933936,"19. Royal Palace of Milan (Palazzo Reale) - Once the seat of government, this royal palace now hosts art exhibitions and cultural events. Its opulent rooms showcase lavish decorations, historical artifacts, and temporary art displays.",3,,,5,old
+297,Church of San Bernardino alle Ossa,"Via Verziere, 2, 20123 Milano MI, Italy.",2,45.46246927467416 9.19535880977105,"Church of San Bernardino alle Ossa - This unique church is known for its macabre ossuary, where human bones are used as decorations. The adjacent chapelI apologize, it seems my response got cut off. Here's the continuation:",2,,,44,old
+298,Castel Nuovo (Maschio Angioino),"Piazza Municipio, Naples",3,40.8386514104664  14.25269793868597, Medieval castle with impressive architecture.,3,,,42,old
+299,Naples Cathedral ," Via Duomo, Naples",3,40.85268083036651  14.259320496358686,Magnificent cathedral with artistic treasures. served as the center of Roman public life for centuries.,5,,,55,old
+300,San Gregorio Armeno,"Via San Gregorio Armeno, Naples",3,40.85025079759876  14.257809896358554," Historic street known for Nativity scene figurines. center, which allows natural light to enter the building.",3,,,12,old
+301,Spaccanapoli,Historic center of Naples,3,40.84503801947924  14.247390974664398,Historic street with ancient buildings and local atmosphere. for visitors to throw coins into the water.,4,,,51,old
+302,Naples Underground (Napoli Sotterranea)," Piazza San Gaetano 68, Naples",3,40.852418261827204  14.256692984669899,Intriguing underground tunnels with historical significance. the Roman Catholic Church and home to St. Peter's Basilica and the Vatican Museums.,3,,,42,old
+303,Certosa di San Martino,"Largo San Martino 5, Naples",3,40.84374646530794  14.24081141170214, Museum in a former monastery with panoramic views. Monti church at the top. It is a popular meeting point and gathering place.,3,,,28,old
+304,Catacombs of San Gennaro,": Via Capodimonte 13, Naples",3,40.865199404294636 14.247354594507579,"Ancient catacombs with early Christian artwork. throughout history, including as a mausoleum, a castle, and a museum.",5,,,17,old
+305,Palazzo Reale (Royal Palace)," Piazza del Plebiscito, Naples",3,40.836402033215855  14.249359781013876, Opulent palace with royal history.,2,,,27,old
+306,Castel dell'Ovo," Via Eldorado 3, Naples",3,40.82842120802395  14.247604396357382,Seaside castle with panoramic views.,4,,,31,old
+307,Santa Chiara Church and Cloister,"Via Santa Chiara 49, Naples",3,40.84721074175679  14.252626023342541, Church and cloister with colorful tiles.,3,,,17,old
+308,Palazzo dello Spagnolo," Piazza Monteoliveto 15, Naples",3,40.8568793774404 14.254292038687014, Historic palace with Spanish Baroque architecture.,2,,,15,old
+309,San Domenico Maggiore,"Piazza San Domenico Maggiore 8, Naples",3,40.8490545006758  14.254454582866419,Beautiful church with Gothic-style interior.,2,,,20,old
+310,Museo di Capodimonte,"Via Miano 2, Naples",3,40.86726887307342 14.250802781015647,Art museum in a former royal palace.,2,,,10,old
+311,Piazza Dante,"Piazza Dante, Naples",3,40.84937259031417  14.249856938686607,Vibrant square with a statue of Dante Alighieri.,5,,,5,old
+312,Palazzo Pignatelli di Monteleone," Riviera di Chiaia 200, Naples",3,40.84718439920385  14.250442972138968,Noble palace with Baroque architecture and decorative arts museum.,2,,,25,old
+313,San Lorenzo Maggiore," Piazza San Gaetano 316, Naples",3,40.86319648994098  14.261417400933754,Medieval church with archaeological excavations.,3,,,0,old
+314,Museo Archeologico Nazionale di Napoli,"Piazza Museo 19, Naples",3,40.85380028068074  14.250549674015025, Major archaeological museum with artifacts from Pompeii and Herculaneum.,5,,,10,old
+315,Galleria Umberto I,"Via San Carlo, Naples",3,40.838717627261175  14.249548511701839,Elegant shopping gallery with a glass dome.,4,,,8,old
+316,Palazzo Zevallos Stigliano,"Via Toledo 185, Naples",3,40.83994384008391  14.24852193683423,Historic palace with an art museum.,4,,,5,old
+317,Rialto Bridge,"Sestiere San Polo, 30125 Venezia VE, Italy",5,45.438390722349865 12.335897999430307,"Ornate covered 16th-century stone footbridge crossing the Grand Canal, with shops & restaurants.",2,,,0,old
+318,Doge's Palace,"P.za San Marco, 1, 30124 Venezia VE, Italy",5,45.43408444791947 12.340447025775777,"Ornate Gothic palace buildings hosting exhibitions with duke's rooms, prison & armoury tours.",2,,,10,old
+319,Saint Mark's Basilica,"P.za San Marco, 328, 30100 Venezia VE, Italy",5,45.434665972438744 12.339755310984303,"Iconic cathedral with a cavernous gilded interior, myriad mosaics & an on-site museum.",2,,,7,old
+320,Grand Canal,"30100 Venice, Metropolitan City of Venice, Italy",5,45.43541711209589 12.327893141785655,"The iconic waterway that winds through Venice, flanked by historic palaces and buildings.",5,,,0,old
+321,Rialto Bridge,"Sestiere San Polo, 30125 Venezia VE, Italy",5,45.43808203783911 12.335887266805935,"Ornate covered 16th-century stone footbridge crossing the Grand Canal, with shops & restaurants.",4,,,0,old
+322,St Mark's Campanile,"P.za San Marco, 30124 Venezia VE, Italy",5,45.434216560683296 12.33900090913424,Imposing 16th-century square cathedral tower with an angel-topped spire & belfry offering sea views.,5,,,10,old
+323,Clock Tower,"P.za San Marco, 30124 Venezia VE, Italy",5,45.43492333050441 12.339024700125776,"A Renaissance tower from 1499, with city views & a mechanical clock with symbolic decorations.",4,,,5,old
+324,Riva degli Schiavoni,"30100 Venice, Metropolitan City of Venice, Italy",5,45.43415800336612 12.343932668655704,"Located on the south bank of the Grand Canal within the sestiere of Dorsoduro, the sprawlingåÊGallerie dell‰ÛªAccademiaåÊis one of the most important museums in Venice.",4,,,0,old
+325,Bridge of Sighs,"P.za San Marco, 1, 30124 Venezia VE, Italy",5,45.43419595084926 12.340802042919155,Arched bridge named for sighs of prisoners crossing it en route from the Palazzo Ducale to prison.,2,,,10,old
+326,Venetian Arsenal,"30122 Venice, Metropolitan City of Venice, Italy",5,45.4349518365066 12.349900899857575,"Byzantine shipyard founded in 1104, today used for cultural events, exhibitions & trade fairs.",2,,,0,old
+327,Ghetto Ebraico - ComunitÌÊ Ebraica di Venezia,"Campo del Ghetto Nuovo, C. del Magazzen, 2882, 30121 Venezia VE, Italy",5,45.44543531762386 12.326279869171811,"Historic Jewish neighborhood now home to 2 synagogues, kosher shops & the Jewish Museum of Venice.",3,,,12,old
+328,St. Mark's Square,"P.za San Marco, 30100 Venezia VE, Italy",5,45.43426843773743 12.338450242186132,Iconic square & gathering place dating back to the 12th century & dominated by St. Mark's Basilica.,5,,,0,old
+329,Campiello del Carro,"S. Marco, 1622, 30124 Venezia VE, Italy",5,45.433722040352876 12.335164126843251,Historical landmark,2,,,0,old
+330,Lo's places,"Ponte de S. PaterniÌÊn, 4231, 30124 Venezia VE, Italy",5,45.43525462175532 12.333948884514694,Historical landmark,2,,,0,old
+331,Campo Santa Margherita,"Campo Santa Margherita, 30100 Venezia VE, Italy",5,45.43442536616242 12.323512742186136,Historical landmark,2,,,0,old
+332,Florence Cathedral ,Piazza del Duomo,4,43.77326892499608  11.255949467658827,"Iconic cathedral with its magnificent dome, known as the Duomo, a symbol of the city.",3,,,42,old
+333,Palazzo Vecchio,Piazza della Signoria,4,43.76941738535383  11.256161625330392,"Historic fortress and city hall, featuring beautiful Renaissance architecture and famous artworks.",3,,,55,old
+334,Ponte Vecchio,Over the Arno River,4,43.76805668360152  11.253122038822648," Oldest bridge in Florence, lined with shops and known for its stunning views and medieval charm.",5,,,12,old
+335,Basilica of Santa Croce,Piazza Santa Croce,4,43.76858376653406  11.262235509986791," Franciscan church housing the tombs of many renowned figures, including Michelangelo and Galileo.",5,,,51,old
+336,Pitti Palace,Piazza de' Pitti,4,43.76533147855604  11.249986638822488," Grand Renaissance palace turned museum, showcasing art, royal apartments, and beautiful gardens.",4,,,42,old
+337,Uffizi Gallery,(Piazzale degli Uffizi),4,43.76792503171195  11.255310796494449, World-famous art museum displaying an extensive collection of Renaissance masterpieces.,5,,,28,old
+338,Bargello Museum,"Via del Proconsolo, 4",4,43.770522030689456  11.258018525330485,"Medieval fortress-turned-museum, housing sculptures, ceramics, and decorative arts.",3,,,17,old
+339,Boboli Gardens,Piazza de' Pitti,4,43.76263664404163  11.248399596494131," Historic garden behind the Pitti Palace, featuring beautiful landscaping, sculptures, and panoramic views.",2,,,27,old
+340,Basilica di San Lorenzo,(Piazza di San Lorenzo),4,43.77509356810489  11.253844009987162,"Historic church with a stunning faÌ¤ade and the Medici Chapels, a burial site for the Medici family.",4,,,31,old
+341,San Marco Museum ,"(Piazza San Marco, 3)",4,43.77827961460971  11.258922025330927," Former Dominican convent turned museum, known for its frescoes by Fra Angelico.",3,,,17,old
+342,Palazzo Medici Riccardi," (Via Camillo Cavour, 1)",4,43.77525230537793  11.25586667136168,"Renaissance palace built for the Medici family, featuring exquisite architecture and art.",2,,,15,old
+343,Basilica di Santa Maria Novella ,(Piazza di Santa Maria Novella),4,43.774743028070944 11.249375167658917, Gothic and Renaissance church known for its stunning faÌ¤ade and art collection.,5,,,20,old
+344,San Miniato al Monte,"(Via delle Porte Sante, 34)",4,43.759542353456766  11.26493668114044," Romanesque church on a hilltop, offering panoramic views of Florence and beautiful mosaics.",3,,,10,old
+345,Piazza della Repubblica ,"Central square with a vibrant atmosphere, surrounded by historical cafÌ©s, shops, and arcades.",4,43.77162413372749  11.253864892792027,Vibrant square with a statue of Dante Alighieri.,3,,,5,old
+346,Palazzo Davanzati,"(Via Porta Rossa, 13) ",4,43.77033935369742 11.252867025330486,"Medieval palace-turned-museum, providing a glimpse into the daily life of Renaissance Florence.",3,,,25,old
+347,Basilica of San Lorenzo,(Piazza di San Lorenzo),4,43.775085821230064  11.253886925330772,Renaissance church with a tranquil cloister and the Laurentian Library designed by Michelangelo.,3,,,0,old
+348,Orsanmichele,(Via dell'Arte della Lana) ,4,43.770784087804905 11.255004696494543," Former grain market transformed into a church, showcasing intricate sculptures on its exterior.",4,,,10,old
+349,Loggia dei Lanzi ,(Piazza della Signoria),4,43.76931383319353  11.255544125330356,"Open-air sculpture gallery featuring famous statues, including the iconic Perseus with the Head of Medusa.",3,,,8,old
+350,Basilica di Santo Spirito, (Piazza Santo Spirito) ,4,43.767224437523964  11.2480689811508," Renaissance church known for its simplicity and the works of renowned artists, such as Brunelleschi.",2,,,5,old
+351,Santa Maria del Carmine ,(Piazza del Carmine),4,43.76825023984631  11.243998584853479," Church famous for the Brancacci Chapel, housing masterful frescoes by Masaccio.",2,,,23,old
+352,Teatro dellOpera di Roma,"Piazza Beniamino Gigli, 00184 Roma RM, Italy",1,41.90079059587993 12.495658295400876,Iconic 19th-century theater thats as visually dramatic & lavish as the opera productions it stages.,2,,,50,night
+353,Piazza Navona in Rome,"Piazza Navona, 00186 Roma RM, Italy",1,42.61517702203919 12.588172027923532,"Elegant square dating from the 1st century A.D., with a baroque fountain, street artists & bars.",1,,,60,night
+354,Trevi Fountain in Rome,"Piazza di Trevi, 00187 Roma RM, Italy",1,41.90108118403159 12.483358776092714,"Aqueduct-fed rococo fountain, designed by Nicola Salvi & completed in 1762, with sculpted figures.",2,,,50,night
+355,Intimate jazz club & whisky bar.,"Via Gregoriana, 54/a, 00187 Roma RM, Italy",1,41.90646391870449 12.48456545236533,Cool cocktails & bar meals in a low-lit setting with a frosty vibe & decor made out of ice.,1,,,35,night
+356,Castel SantAngelo,"Lungotevere Castello, 50, 00193 Roma RM, Italy",1,41.90318294933377 12.466254537728092,"Circular, 2nd-century castle housing furniture & paintings collections in Renaissance apartments.",1,,,35,night
+357,Roof Garden & Bar,"Via Giovanni Vitelleschi, 34, 00193 Roma RM, Italy",1,41.905156608826275 12.461993231390387,"A roof that turns into a terrace for cocktails, private parties, business meetings or can also be used only to admire Rome from an unconventional perspective. ",1,,,75,night
+358,Vatican Museums,00120 Vatican City,1,41.90663948198113 12.453652024237723,"Multiple galleries of classical & Renaissance art masterpieces, plus the Sistine Chapel frescoes.",3,,,70,night
+359,Trastevere,"Trastevere, Rome, Metropolitan City of Rome Capital, Italy",1,41.885986467545884 12.47013118675295,"Colorful Trastevere is a funky, bohemian area that clings to its centuries-old, working-class roots. Its known for traditional and innovative trattorias, craft beer pubs and artisan shops, as well as simple B&Bs and budget hotels. From the pre-dinner passeggiata (promenade) until late, a young crowd buzzes around Piazza di San Calisto and Piazza Santa Maria in Trastevere, the site of a gilded, mosaic-filled church.",1,,,40,night
+360,Ice Club Roma,"Via della Madonna dei Monti, 18/19, 00184 Roma RM, Italy",1,41.89587441474658 12.489198508866922,Cool cocktails & bar meals in a low-lit setting with a frosty vibe & decor made out of ice.,2,,,50,night
+361,La Cabala,"Via dei Soldati, 25c, 00186 Roma RM, Italy",1,41.90571254723192 12.47117406485654,Intimate nightclub on the top floor of a medieval building with views of the River Tiber.,2,,,70,night
+362,Disco Planet Rome,"Via del Commercio, 36, 00154 Roma RM, Italy",1,41.87287026998206 12.475808921887781,"Busy nightclub with multiple rooms & dance floors offering live bands & themed nights, plus a bar.",1,,,50,night
+363,Sharivari,"Via de Nari, 14, 00186 Roma RM, Italy",1,41.89813384139835 12.47603553805878,"Elegant & glamorous venue with an Italian fine dining restaurant, a bistro & a stylish nightclub.",3,,,60,night
+364,Yellow Bar,"Via Palestro, 40, 00185 Roma RM, Italy",1,41.90549788598787 12.504623530116069,"Low-lit, buzzing restaurant/bar in a hostel, with live music & an underground club.",2,,,25,night
+365,Mag Cafe,"Ripa di Porta Ticinese, 43, 20143 Milano MI, Italy",2,45.45137380174303 9.173410528562401,this place is known for its aperitivo hours where drinks are accompanied by finger food3.,2,,,50,night
+366,Moscow Mule Bar,"Via Teodosio, 60, 20131 Milano MI, Italy",2,45.48691299523624 9.230104335554646,this place is known for its aperitivo hours where drinks are accompanied by finger food3.,1,,,60,night
+367,Il Bar,"Via Teodosio 60, Milan, 20131",2,45.46488794489 9.19186033555871,this place is known for its aperitivo hours where drinks are accompanied by finger food3.,2,,,50,night
+368,Moscow Mule Bar,"Via Cardinale Ascanio Sforza 37, Milan, 201362.",2,45.486935560288565 9.230039962540317,"Moscow Mule Bar: This is a cocktail bar located at Via Teodosio 60, Milan1. The bar is known for its Moscow mule, a cocktail made with vodka",3,,,35,night
+369,Coba Happy Hour Navigli Milano,"Via Ascanio Sforza, 37, 20136 Milano MI, Italy",2,45.448550963202834 9.177362777880898,"Ascanio Sforza 37, Milan2, this place is known for its aperitivo hours where drinks are accompanied by finger food3.",1,,,35,night
+370,Frida,"Viale Premuda 7, Milan, 20129",2,45.458039780365205 9.175339464339972,"Frida: Located in Milan, Frida is a bar and shop that has changed the history of the Isola district",1,,,75,night
+371,Lab Milano Cocktail Bar,"Viale Monza 140, Milan, 20127",2,45.46411712261373 9.207083564386444,"It is known for its experimentation, creation, and research of new flavors and sensations.",1,,,70,night
+372,Zelig Cabaret,"Via Cardinale Ascanio Sforza 21, Milan, 20136",2,45.50417003266416 9.222361977880084,It offers high-quality live music every evening from Tuesday to Saturday,2,,,40,night
+373,Ginger Cocktail Lab,"Via Emilio Gola 12, Milan",2,45.44975079758872 9.177653809135325,It is the perfect address for those seeking moments of pure pleasure and fun in the Milanese nightlife,3,,,50,night
+374,10gradinord,"Ippolito Rosellini 1, Zona Isola - Stazione Centrale - Garibaldi - Corso Como, Milan, 20124",2,45.44429922991731 9.154419289529445,over the years has witnessed performances by artists of great prestige both in Italy and abroad,1,,,70,night
+375,CAPRICCIO Exclusive Club Milano,"Via Emilio Gola 12, Milan",2,45.48841007943055 9.193648864395378,offers lowed parties and excelent drinks.,1,,,50,night
+376,Nidaba Theatre - Live Music Navigli Milano,"åÊVia dei Piccolomini 5, 20151 Milano",2,45.44901478024667 9.17581989323408,"fun and transgression, immersing yourself in an enveloping and engaging atmosphere10.",3,,,60,night
+377,San Siro Stadium,"Via dei Piccolomini 5, 20151 Milano",2,45.47816345147721 9.124044279734743,"San Siro, officially known as Stadio Giuseppe Meazza, is a football stadium in the San Siro district of Milan, Italy, which is the home of A.C.",1,,,25,night
+378,La Scala Opera House,"Piazza della Scala, Milan",2,45.46747734286862 9.189578022068918,"Nestled in the heart of Milan, Teatro alla Scala, commonly known as La Scala, is one of the world‰Ûªs most iconic and prestigious opera houses",1,,,50,night
+379,Castello Sforzesco,"Piazza Castello, Milan",2,45.4705890581159 9.179294949052773,"This is a medieval fortification located in Milan, Northern Italy",1,,,55,night
+380,Galleria Vittorio Emanuele II,"Piazza del Duomo, Milan",2,45.46607092766959 9.189941347846336,"Galleria Vittorio Emanuele II: This is Italy‰Ûªs oldest active shopping gallery and a major landmark of Milan, Italy",1,,,45,night
+381,Duomo di Milano:,"Piazza del Duomo, Milan",2,45.46413832526434 9.191911955650484,"The Milan Cathedral, also known as Duomo di Milano, is a mind-blowing journey among art, history",1,,,45,night
+382,Rock‰Ûªn‰Ûªroll Milano,"Via Giuseppe Bruschetti, 11, 20125 - Milano",2,45.49268259761525 9.207582977890452,This is a unique place that offers a selection of crafted drinks that are sharp and refreshing to the senses.,3,,,23,night
+383,Bar Matricola,"Via Caminadella 20, Milan, 20143",2,45.4657783037244 9.175356169057729,This is a nice place where you can reserve a table or even a small space for yourselves.,1,,,43,night
+384,Hole Rabbit CafÌ¬:,"Via Giuseppe Mazzini 20, Milan,20123",2,45.46180397549449 9.18842832206119,"This cafÌ© is an Alice in Wonderland-themed tea room, the first of its kind in Italy",3,,,12,night
+385,The Lounge Bar:,"Piazza della Repubblica 20, Milan,20124",2,45.48055440946163 9.199831924070043,"The Lounge Bar is located in The Westin Palace, Milan. It‰Ûªs a popular meeting place for both locals and international travelers",3,,,34,night
+386,Piazza Bellin,"Piazza Bellini, Naples, Italy.",3,40.84996623004733 14.252255680775132,"Piazza Bellini: A vibrant square known for its lively nightlife scene, with numerous bars, cafes, and live music venues",1,,,50,night
+387,Via dei Tribunal,"Via dei Tribunali, Naples, Italy.",3,40.851622971186295 14.258811145831396,"Via dei Tribunali: A popular street in the historic center, lined with bars, pubs, and small clubs. Its a great place for bar hopping and enjoying the energetic atmosphere",1,,,60,night
+388,Lungomare Caracciolo,"Lungomare Caracciolo, Naples, Italy.",3,40.82820459966301 14.221175117005366,"Lungomare Caracciolo: A scenic promenade along the waterfront, offering a variety of bars, restaurants, and clubs with stunning views of the bay",1,,,50,night
+389,Vomero,"Vomero district, Naples, Italy.",3,40.84345596862755 14.222263130735039,Vomero,2,,,35,night
+390,Quartieri Spagnoli,"in the Spanish Quarter (Quartieri Spagnoli), Naples, Italy.",3,40.842996831187456 14.247183598207501,"Quartieri Spagnoli: A vibrant and authentic neighborhood with many local bars, taverns, and late-night spots. Its a great place to experience the local nightlife scene.",2,,,35,night
+391,Piazza San Domenico Maggiore,"Piazza San Domenico Maggiore, Naples, Italy.",3,40.848659038842506 14.255170490025531,Piazza San Domenico Maggiore: A charming square surrounded by historic buildings and filled with bars and outdoor seating.,2,,,75,night
+392,Via Partenope,"Via Partenope, Naples, Italy",3,40.830087259492544 14.24549477471527,"Via Partenope: A waterfront street with a selection of bars and clubs, offering a lively atmosphere and beautiful views of the sea.",1,,,70,night
+393,Via Toledo,"Via Toledo, Naples, Italy.",3,40.84290602172316 14.248883542363032,"Colorful Trastevere is a funky, bohemian area that clings to its centuries-old, working-class roots. Its known forVia Toledo: A bustling street with a mix of bars, cafes, and late-night venues. Its a popular spot for socializing and enjoying the vibrant atmosphere",1,,,40,night
+394,Chiaia,"the Chiaia district, Naples, Italy.",3,40.83616017730097 14.233442927748316,"Chiaia: A trendy neighborhood known for its upscale bars, cocktail lounges, and stylish nightlife venues.",3,,,50,night
+395,Rione SanitÌÊ,"the SanitÌÊ district, Naples, Italy.",3,40.85907009737598 14.254342381556192,"Rione SanitÌÊ: A historic neighborhood with a growing nightlife scene, featuring bars, music venues, and cultural spaces.",3,,,70,night
+396,Teatro Bellini,"Via Conte di Ruvo, 14, 80135 Naples NA, Italy.",3,40.85128822191436 14.251053015589855,"Teatro Bellini: A renowned theater that hosts a variety of performances, including theater shows, concerts, and DJs. Its a unique nightlife experience in a cultural setting",2,,,50,night
+397,Borgo Marinari,"Borgo Marinari, Naples, Italy.",3,40.830904856109846 14.248086060333234,Borgo Marinari: A picturesque area with a selection of bars and restaurants located on a small island near the Castel dellOvo.,2,,,60,night
+398, Piazza San Pasquale,"t Piazza San Pasquale, Naples, Italy.",3,40.834347946216745 14.236365352397153,"Piazza San Pasquale: A lively square with several bars and pubs, known for its vibrant nightlife and social gatherings",2,,,25,night
+399,Piazza San Domenico Maggiore,"Piazza San Domenico Maggiore, Naples, Italy.",3,40.8486428073012  14.255138296358506,"square with a mix of bars, cafes, and clubs, offering a diverse range of nightlife options",3,,,44,night
+400,Via Partenope,"Via Partenope, Naples, Italy.",3,40.83009537738777 14.245548411701392,"A waterfront street with a selection of bars and clubs, offering a lively atmosphere and beautiful views of the sea.",2,,,45,night
+401,Pozzuoli,"in Pozzuoli, Naples, Italy.",3,40.84685248123578  14.083042636544471,"A coastal town near Naples with a vibrant nightlife scene, featuring bars, clubs, and beachfront venues.",1,,,54,night
+402,Vico San Pietro a Majella,"Vico San Pietro a Majella, Naples, Italy.",3,40.84984319864723  14.252366396358557,A narrow street in the historic center known for its jazz bars and live music venues. Its a great place for music enthusiasts and those who enjoy a laid-back atmosphere,3,,,65,night
+403,Via Toledo Underground,"Via Toledo, Naples, Italy.",3,40.84317949066407  14.249018945032248,"An underground space hosting events, concerts, and DJ performances. It offers a unique and alternative nightlife experience.",2,,,56,night
+404,Via Mezzocannone,"Via Mezzocannone, Naples, Italy.",3,40.84674654272337  14.256055409850479,"A street in the university district, featuring a variety of bars, pubs, and student hangouts. Its a vibrant area with a youthful atmosphere.",2,,,45,night
+405,Molo Beverello,"Molo Beverello, Naples, Italy.",3,40.83837091115347  14.254583881014058,"The main port area of Naples, offering a range of bars and restaurants with waterfront views",3,,,34,night
+406,Skyline Rooftop Bar,"San Marco, 30124 Venice",5,45.428154880168364 12.320120093484084,Skyline Rooftop Bar offers breathtaking views of the Venice skyline. Enjoy a wide range of cocktails and live music while taking in the citys beauty.,3,,,15,night
+407,Bacaro Jazz Club,"Dorsoduro, 30123 Venice",5,45.438426493589326 12.337163268656042,Bacaro Jazz Club is a popular spot for jazz enthusiasts. Sip on your favorite drink while listening to live jazz performances in an intimate and cozy setting.,1,,,10,night
+408,Lido Beach Bar,"Lido di Venezia, 30126 Venice",5,45.41438035686907 12.377185353099454,"Lido Beach Bar is the perfect place to unwind by the beach. Enjoy refreshing cocktails, lounge on sunbeds, and take a dip in the Adriatic Sea.",2,,,8,night
+409,Harrys Bar,"San Marco, 30124 Venice",5,45.432649050443054 12.337351810333082,Harrys Bar is a historic Venetian institution known for its classic cocktails and elegant atmosphere. Experience the charm of this iconic bar frequented by famous personalities.,2,,,20,night
+410,Cafe Noir,"Cannaregio, 30121 Venice",5,45.43611308367388 12.325304839820115,"CafÌÄå© Noir is a trendy cafÌÄå© by day and a lively bar by night. Savor delicious coffee, indulge in tasty snacks, and enjoy the vibrant atmosphere.",2,,,7,night
+411,Bacaro Veneto,"Castello, 30122 Venice",5,45.43597624012882 12.325980695637,Bacaro Veneto is a traditional Venetian wine bar. Sample a variety of local wines and savor delectable cicchetti (small snacks) in a cozy and authentic setting.,2,,,12,night
+412,Jazz Club Venice,"Santa Croce, 30135 Venice",5,45.43338289220982 12.323896110984217,"Jazz Club Venice offers an eclectic mix of jazz, blues, and soul music. Immerse yourself in the soulful melodies while enjoying your favorite drink.",2,,,15,night
+413,Novecento Jazz Club 900,"Campiello del Sansoni, 900, 30125 Venezia VE, Italy",5,45.438884612197604 12.332600342203314,"Novecento Jazz Club 900 offers an intimate and cozy space for jazz enthusiasts. Enjoy live jazz music, friendly ambiance, and a wide selection of drinks.",2,,,10,night
+414,Giudecca 795 Art Gallery,"Giudecca, 30133 Venice",5,45.42705733706576 12.324006636884436,Giudecca 795 Art Gallery is a contemporary art space showcasing works from local and international artists. Explore the vibrant art scene of Venice in this unique gallery.,3,,,0,night
+415,Cipriani Bar,"Giudecca, 30133 Venice",5,45.42740516538459 12.341075130116065,Cipriani Bar is a luxurious waterfront bar offering stunning views of the lagoon. Enjoy signature cocktails and a sophisticated ambiance in this iconic Venetian establishment.,3,,,25,night
+416,Bauer Palazzo Rooftop Bar,"San Marco, 30124 Venice",5,45.4323846070704 12.33620076746849,Bauer Palazzo Rooftop Bar provides panoramic views of Venices landmarks. Indulge in a wide selection of drinks and experience the citys charm from above.,1,,,20,night
+417,Piccolo Mondo,"Cannaregio, 30121 Venice",5,45.43183544867263 12.327395666805542,Piccolo Mondo is a lively bar known for its energetic atmosphere and live music performances. Dance the night away and enjoy a vibrant nightlife experience.,1,,,10,night
+418,Acqua Alta Bookstore,"Castello, 30122 Venice",5,45.438175504443926 12.342324182148804,Acqua Alta Bookstore is a unique bookstore with a charming twist. Enjoy a drink amidst stacks of books and experience the cozy and eccentric ambiance.,3,,,0,night
+419,Bacaro Dai Mori,"San Polo, 30125 Venice",5,45.43904714928625 12.334050353736009,Bacaro Dai Mori is a traditional Venetian wine bar with a rich selection of local wines and delicious cicchetti. Immerse yourself in the local culture and flavors.,1,,,12,night
+420,La Fenice Opera House,"San Marco, 30124 Venice",5,45.4337203878043 12.333736437969938,La Fenice Opera House is a historic venue offering breathtaking opera performances. Witness world-class talent in an opulent setting for an unforgettable night.,1,,,15,night
+421,Bacaro Rosso,"Dorsoduro, 30123 Venice",5,45.550258235785044 12.310143080306643,Bacaro Rosso is a cozy wine bar serving an extensive selection of wines and delectable Venetian dishes. Experience the local culinary delights in a warm ambiance.,3,,,15,night
+422,Venissa Wine Resort,"Mazzorbo, 30142 Venice",5,45.48871091437793 12.411144195645216,Venissa Wine Resort is a vineyard and wine bar located on the island of Mazzorbo. Taste exquisite local wines and enjoy the serene atmosphere of the Venetian lagoon.,2,,,30,night
+423,Osteria Al Squero,"Dorsoduro, 30123 Venice",5,45.430247056299976 12.326214568655397,Osteria Al Squero is a charming bar near a gondola workshop. Sip on a glass of wine and watch the gondoliers at work while enjoying the authentic Venetian vibe.,2,,,10,night
+424,Cantina Do Mori,"San Polo, 30125 VeniceVenice",5,45.43911542029395 12.333987980298884,"Cantina Do Mori is one of the oldest wine bars in Venice, dating back to 1462. Step into history and enjoy a glass of wine in this atmospheric and traditional establishment.",2,,,10,night
+425,The Gritti Palace Terrace,"San Marco, 30124 Venice",5,45.43196136790368 12.333323153312689,The Gritti Palace Terrace is a luxurious rooftop bar offering stunning views of the Grand Canal. Indulge in exquisite cocktails and soak in the opulence of Venice.,3,,,30,night
+426,Peggy Guggenheim Collection,"Dorsoduro, 30123 Venice",5,45.43101662927538 12.331537395641181,Peggy Guggenheim Collection is a renowned modern art museum. Discover masterpieces by prominent artists and enjoy the vibrant art scene in the heart of Venice.,1,,,15,night
+427,Red Garter,"Via de' Benci, 33",4,43.76836469187916  11.25974135231494,"Lively pub with live music, karaoke, and a vibrant atmosphere.",3,,,50,night
+428,The Blob Club,"Via Vinegia, 21/r",4,43.76891828170419  11.257509125330413," Popular nightclub playing a mix of music genres, from rock to electronic.",3,,,60,night
+429,Space Electronic Disco Club,"Via Palazzuolo, 37",4,43.77381941208471  11.24630386765888,Underground electronic music venue with multiple dance floors.,3,,,50,night
+430,Jazz Club Firenze,"Via Nuova de' Caccini, 3",4,43.77364993005363  11.263129996494765,Intimate jazz club hosting live performances by local and international artists.,3,,,35,night
+431,Lion's Fountain Pub,"Via del Giglio, 49",4,43.771689206953496  11.261546311838273," Irish pub featuring live sports screenings, pub quizzes, and a wide selection of beers.",3,,,35,night
+432,Bitter Bar,"Via di Mezzo, 28r",4,43.71620377335088  11.28422277487975, Upscale cocktail bar with a refined atmosphere and an extensive drink menu.,2,,,75,night
+433,YAB Disco Club,"Via Sassetti, 5r",4,43.77102791931721  11.252681725330541,Stylish nightclub with multiple dance floors and a mix of music genres.,1,,,70,night
+434,Mayday Club,"Via Dante Alighieri, 16",4,43.77112426647661  11.256593338822828,"Late-night club with a dance floor, DJ sets, and a trendy atmosphere.",3,,,40,night
+435,Rex CafÌ©,"Piazza della Repubblica, 6R",4,43.77268477340966 11.26320500998696," Chic cafÌ©-bar offering cocktails, live music, and a terrace with panoramic views.",2,,,50,night
+436,Full Up Club ,"Via della Vigna Vecchia, 23r",4,43.7702493936777  11.258863038822758,Nightclub playing a mix of music genres and hosting regular themed parties.,1,,,70,night
+437,Tenax Club,"Via Pratese, 46",4,43.79907592178722  11.195229340675793,Renowned club known for its electronic and techno music events.,2,,,50,night
+438,Moyo," Via dei Benci, 23r",4,43.76828162198765  11.259612408135453,"Cocktail bar with a relaxed ambiance, outdoor seating, and a wide range of drinks.",2,,,60,night
+439,Negroni,"Via dei Renai, 17r",4,43.76822199914468  11.258593783855463, Trendy cocktail bar with a stylish interior and expertly crafted drinks.,1,,,25,night
+440,Rasputin Disco Pub,"Via Pier Capponi, 1",4,43.76649688304835 11.248074725330342,Russian-themed nightclub with multiple dance floors and live DJ performances.,1,,,44,night
+441,The Fusion Bar ,"Via del Ghibellina, 70r",4,43.76901093382141  11.25321075416632 ,"Lounge bar offering a fusion of cocktails, sushi, and live music.",1,,,45,night
+442,Slowly Club,"Via Porta Rossa, 63",4,43.88170687721324  11.256453811007072," Cosy nightclub with a dance floor, DJ sets, and a friendly atmosphere.",3,,,54,night
+443,Volume,"Piazza Santo Spirito, 5r",4,43.7668254342757  11.247837067658484,"Artistic venue hosting live music, DJ sets, and cultural events.",3,,,65,night
+444,The Friends Pub,"Via de' Pepi, 51",4,43.770623170687344  11.250934164070319,"Cozy pub with a warm atmosphere, offering a selection of beers and spirits. ",2,,,56,night
+445,Rivoire,"Piazza della Signoria, 5-6r",4,43.769751570210744 11.255085496494521," Historic cafÌ© with outdoor seating, known for its hot chocolate and pastries.",3,,,45,night
+446,Zoe,"Piazza Santa Maria Novella, 20r",4,43.76556532992247 11.260219383652483, Lounge bar and restaurant with a sophisticated ambiance and signature cocktails.,3,,,34,night
+447,The Blob Firenze,"Via del Proconsolo, 9r",4,43.768887290999125  11.257444752315003,Eclectic bar with a unique interior and a mix of music genres.,2,,,55,night
+448,The Beer House Club,"Via de' Benci, 23r",4,43.76762609944837  11.260033742525252,Lively pub offering a wide selection of craft beers and live sports screenings.,2,,,60,night
+449,Colle Bereto,"Piazza Strozzi, 5r",4,43.77112653463012 11.252039781151037," Rooftop bar with panoramic views of Florence, serving cocktails and light bites.",1,,,65,night
+450,Oibo - Beer e Burger,"Via dei Benci, 34r",4,43.768698739032935  11.260299983002195,Casual bar offering a variety of beers on tap and gourmet burgers.,1,,,45,night
+451,Rari Nantes Florentia,"Viale Paoli, 3",4,43.76659939407486  11.275888098033125,Sports bar with big screens for watching live sports events and a friendly atmosphere.,3,,,23,night
+452,Villa Borghese Gardens,"Piazzale Napoleone I, 00197 Roma RM, Italy",1,41.912983078988084 12.48516558006076,"Vast urban park with formally landscaped gardens, a lake & villas now housing important museums.",2,,,,natural
+453,Botanical Garden of Rome,"Largo Cristina di Svezia, 23 A - 24, 00165 Roma RM, Italy",1,41.89288280617462 12.462939079547962,"7,000 plant species from around the world, plus fountains, a bamboo grove & a Japanese tea garden.",4,,,,natural
+454,Monte Mario,"Monte Mario, 00136 Roma RM, Italy",1,41.91794165875352 12.450171371905292,"Forested hill offering a nature reserve, observatory & panoramic views of the city & its monuments.",5,,,,natural
+455,Gianicolo Hill,"Piazzale Giuseppe Garibaldi, 00165 Roma RM, Italy",1,41.89166933751176 12.461351280059397,"This historic, well-known hilltop terrace offers panoramic views of Rome.",2,,,,natural
+456,Parco degli Acquedotti,"Via Lemonia, 256, 00174 Roma RM, Italy",1,41.850548739851135 12.557414284514692,"Protected parkland with a Roman aqueduct & ancient archaeological sites, plus a former mill.",5,,,,natural
+457,Lake Bracciano,"Lago di Bracciano, Italy",1,42.13049402148912 12.234714392817125,"a popular place for sailing, swimming & scuba diving.",4,,,,natural
+458,Tiber Island,"Isola Tiberina, 00186 Roma RM, Italy",1,41.89076521851188 12.477205191159609,Compact island in a bend of the River Tiber with a number of historical buildings & monuments.,3,,,,natural
+459,Appian Way Regional Park,"Parco Regionale dell'Appia Antica, Via Appia Antica, 42, 00178 Roma RM, Italy",1,41.86846830399119 12.502436695400757,Park along 16 km of the Roman road preserving important ancient Roman tombs & villas.,2,,,,natural
+460,Villa Doria Pamphili,"Via di San Pancrazio, 00152 Roma RM, Italy",1,41.885406070114456 12.441598366566145,"Landscaped park on ancient noble Roman estate, with open-air concerts, nature trails & fountain.",3,,,,natural
+461,Ostia Beach,"Lido di Ostia, 00122 Roma RM, Italy",1,41.73698985513557 12.28517615956347,"Historical 150-meter jetty, first founded in 1940, ending in a circular observation space.",4,,,,natural
+462,Vatican Gardens,"Vatican City, 00120",1,41.9038103292675 12.450310168417394,"Formal gardens within Vatican City, featuring fountains, sculptures & landscaped greenery.",3,,,,natural
+463,Janiculum Hill,"Via Garibaldi, 00153 Roma RM, Italy",1,41.89158148443225 12.461404924237998,"Hilltop park known for its panoramic views, statues, and memorials, including a large statue of Giuseppe Garibaldi.",4,,,,natural
+464,Villa Celimontana,"Via della Navicella, 12, 00184 Roma RM, Italy",1,41.88402072333501 12.495179608894615,"Renaissance villa and park with ancient Roman ruins, gardens, and a summer jazz festival.",3,,,,natural
+465,Villa Ada Savoia,"Via Salaria, 00199 Roma RM, Italy",1,41.93295543180118 12.502058838058776,"Large park with a lake, trees, and walking paths, offering a peaceful retreat from the city.",4,,,,natural
+466,Parco Savello (Orange Garden),"Piazza Pietro D'Illiria, 00153 Roma RM, Italy",1,41.88523339523036 12.480388710744778,"Garden on the Aventine Hill with orange trees, rose beds, and a panoramic view of Rome.",5,,,,natural
+467,Parco Sempione,"Piazza Sempione, 20121 Milano MI",2,45.472517938322106 9.17696642500752,"Located in the heart of the city, Parco Sempione is one of the largest parks in Milan. It is characterized by its stunning views, dense trees",5,,,,natural
+468,Parco Nord Milano,"Via Clerici, 20121 Milano MI",2,45.467759533635366 9.186761957657998,"This vast natural park is one of the largest green spaces in Milan. It features expansive meadows, dense forests, and lakes. The park",3,,,,natural
+469,Parco Lambro," Via Martiri Oscuri, 20135 Milano MI",2,45.4960535105214 9.257584611602484,"Situated along the banks of the Lambro River, Parco Lambro offers a tranquil refuge in the city. It boasts wide green spaces, trees, and small lakes.",5,,,,natural
+470,Parco Sant'Agostino,"Piazzale Sant'Agostino, 20123 Milano M",2,45.704604588595224 9.672046913475333,"This peaceful park provides an escape from the noise and bustle of the city center. It features dense trees, beautiful landscapes",5,,,,natural
+471,Giardini della Guastalla,"Pescheria barocca, Via Francesco Sforza, 20122 Milano MI, Italy",2,45.46172153448599 9.19604345223511,"Situated near the site of Expo 2015, this park offers a relaxing and scenic environment. It features green meadows",2,,,,natural
+472,"milano ,parco sempione","Piazza Castello, 17, 20121 Milano MI, Italy",2,45.47087125416485 9.178533992339307,"Located on Via Luigi Cadorna, this park offers a peaceful retreat with its lush greenery and trees.",4,,,,natural
+473,BAM Tree Library Milan,"Via Gaetano de Castillia, 28, 20124 Milano MI, Italy",2,45.48639829965983 9.192610224804557,"Garden park & botanical garden with contemporary landscape design, restaurants & community events.",3,,,,natural
+474,Acquario Civico e Stazione Idrobiologica di Milano,"V.le Gadio, 2, 20121 Milano MI, Italy",2,45.48583890642663 9.182819257674524,"Landscaped park on ancient noble Roman estate, with open-air concerts, nature trails & fountain.",4,,,,natural
+475,Parco Villa Litta,"Via Jacopo della Quercia, 20151 Milano MI",2,45.51605173143442 9.167153642299478,"Historical 150-meter jetty, first founded in 1940, ending in a circular observation space.",4,,,,natural
+476,Parco pubblico - Giacometti-Gilardi,"20126 Milan, Metropolitan City of Milan, Italy",2,45.51412198237554 9.219367217341238,"Formal gardens within Vatican City, featuring fountains, sculptures & landscaped greenery.",4,,,,natural
+477,Parco Niguard,"Via Ospedale Maggiore, 20162 Milano MI",2,45.52603346916828 9.190423155479206,"Hilltop park known for its panoramic views, statues, and memorials, including a large statue of Giuseppe Garibaldi.",2,,,,natural
+478,Parco Monte Stella,"Via Enrico Terzaghi, 20148 Milano MI, Italy",2,45.49042515938645 9.13255168400254,"Renaissance villa and park with ancient Roman ruins, gardens, and a summer jazz festival.",4,,,,natural
+479,Parco Lambroside,"Via Lambro, 20151 Milano MI",2,45.53134156016016 9.24215918340044,"Large park with a lake, trees, and walking paths, offering a peaceful retreat from the city.",4,,,,natural
+480,Parco dell'Alintorno,"Via Medeghino, 20161 Milano M",2,45.34327789019597 10.696010198125041,"Garden on the Aventine Hill with orange trees, rose beds, and a panoramic view of Rome.",2,,,,natural
+481,Mount Vesuvius,East of Naples,3,40.823419883857966  14.428733906693902,Majestic volcano with scenic views and hiking trails.,4,,,,natural
+482,Capri Island,Off the coast of Naples,3,40.58514660582194  14.21798721844404,Picturesque island with beautiful landscapes and crystal-clear waters.,2,,,,natural
+483,Amalfi Coast, South of Naples,3,40.63338333735205  14.602907792378492,"Spectacular coastline with dramatic cliffs and charming fishing villages. spaces, trees, and small lakes.",4,,,,natural
+484,Positano," Amalfi Coast, south of Naples",3,40.63753252309692  14.490731635774857,Picturesque village with colorful houses and stunning coastal views. landscapes,4,,,,natural
+485,Pompeii,Near Mount Vesuvius,3,40.745441803385894  14.496771126764118,Archaeological site with well-preserved ruins of the ancient Roman city.,4,,,,natural
+486,Herculaneum,Near Mount Vesuvius,3,40.76053181670142  14.501220400355097,Well-preserved archaeological site showcasing ancient Roman ruins.,4,,,,natural
+487,Phlegraean Fields (Campi Flegrei,West of Naples,3,40.82810175739164  14.138656445334528,"Volcanic area with craters, hot springs, and the Solfatara volcano.",3,,,,natural
+488,Procida Island:, Off the coast of Naples,3,40.7617477893801  14.019014832263997,Picturesque island with colorful houses and serene beaches,4,,,,natural
+489,Ischia Island,Gulf of Naples,3,40.75542807742513  13.90939044952321," Volcanic island with thermal spas, gardens, and scenic coastline.",4,,,,natural
+490,Sorrento Peninsula, South of Naples,3,41.43602264813373  14.813181301443024,"Peninsula with stunning views, charming towns, and fragrant lemon groves.",5,,,,natural
+491,Naples Botanical Garden (Orto Botanico di Napoli),"Via Foria, Naples",3,40.86155175527325  14.262273581015318,Lush botanical garden with diverse plant species and serene ponds.,2,,,,natural
+492,Baia Underwater Archaeological Park,Bay of Naples,3,40.82133468558626  14.077731318295472,Underwater park with submerged ancient Roman ruins.,5,,,,natural
+493,Vesuvius National Park, Surrounding Mount Vesuvius,3,40.82826829003908  14.425831338685462, National park with hiking trails and volcanic landscapes.,4,,,,natural
+494,Grotta dello Smeraldo (Emerald Grotto)," Conca dei Marini, Amalfi Coast",3,40.615245256389954  14.566995109837823, Captivating sea cave with emerald-green waters and impressive stalactite formations.,2,,,,natural
+495,Villa Doria d'Angri Park,"Vomero district, Naples",3,40.7377877521514  14.572155596352422,Tranquil park with gardens and scenic views of the city and bay.,2,,,,natural
+496,Parco Virgiliano,"Posillipo district, Naples",3,40.83078558523079  14.21802783867433,Hilltop park with panoramic views of Naples and the surrounding islands.,2,,,,natural
+497,Astroni Crater Nature Reserve," Agnano district, Naples",3,40.84050813939514  14.159360882865974,"Nature reserve with a volcanic crater, hiking trails, and a scenic lake.",4,,,,natural
+498,Piazza del Plebiscito,"Piazza del Plebiscito, Naples",3,40.83606498408262  14.248587144506, Grand square with historic buildings and a view of the Bay of Naples.,2,,,,natural
+499,Naples Underground (Napoli Sotterranea)," Piazza San Gaetano 68, Naples",3,40.83816546085054  14.24548628253836, Intriguing underground tunnels with historical significance.,2,,,,natural
+500,Villa Floridiana,"Via Cimarosa 77, Naples",3,40.84253848555064  14.228978065670352,"Scenic park with gardens, panoramic views, and a museum showcasing decorative arts.",5,,,,natural
+501,Giardini della Biennale,"Castello, 30122 Venice, Italy",5,45.4289528775356 12.358059137969603,Giardini della Biennale is a beautiful park located in the Castello district of Venice. It is known for its lush greenery and picturesque pathways.,4,,,,natural
+502,Lido di Venezia,"Lido, 30126 Venice, Italy",5,45.39192603199097 12.353095727323561,"Lido di Venezia is a long sandbar that stretches along the Adriatic Sea. It is a popular beach destination where visitors can relax, sunbathe, and enjoy various water activities.",4,,,,natural
+503,Parco delle Rimembranze,"Cannaregio, 30121 Venice, Italy",5,45.4267952591565 12.359675805668248,Parco delle Rimembranze is a park situated in the Cannaregio district of Venice. It offers a serene atmosphere with its well-maintained gardens.,3,,,,natural
+504,Sant'Elena Park,"Castello, 30122 Venice, Italy",5,45.428424330959714 12.364828064401905,"Sant'Elena Park is a peaceful green space located in the Castello district. It features beautiful lawns, walking paths, and a playground.",5,,,,natural
+505,Bacino San Marco,"San Marco, 30124 Venice, Italy",5,45.433191477323014 12.340831353312765,Bacino San Marco is a stunning waterfront area in the San Marco district. It offers breathtaking views of the Venetian lagoon and is a popular spot for romantic walks.,4,,,,natural
+506,St. Mark's Square,"P.za San Marco, 30100 Venezia VE, Italy",5,45.43653864398551 12.338113197556172,Iconic square & gathering place dating back to the 12th century & dominated by St. Mark's Basilica.,2,,,,natural
+507,Alberoni Beach,"Alberoni, 30126 Venice, Italy",5,45.35001652952286 12.329761209534581,Alberoni Beach is a secluded sandy beach located on the Lido island. It offers a tranquil escape from the city.,3,,,,natural
+508,Parco Piraghetto,"Via Piraghetto, 30175 Marghera, Venice, Italy",5,45.490015091966534 12.227137962445024,"Parco Piraghetto is a charming park situated in Marghera, a town near Venice. It features walking paths, green lawns, and a small lake.",5,,,,natural
+509,Parco Morosini,"Santa Croce, 30135 Venice, Italy",5,45.47154210154293 12.28067157874872,"Parco Morosini is a small park located in the Santa Croce district. It provides a pleasant green space with benches, trees, and a fountain",2,,,,natural
+510,Bacino Orseolo,"San Marco, 30124Venice, Italy",5,45.434235659445854 12.336915609134252,Bacino Orseolo is a picturesque canal basin situated in the San Marco district. It is known for its charming gondolas and beautiful architecture surrounding the water.,2,,,,natural
+511,Parco Savorgnan,"Santa Croce, 30135 Venice, Italy",5,45.44356215582208 12.323705353313516,"Parco Savorgnan is a small park located in the Santa Croce district. It offers a peaceful setting with benches, trees, and a charming fountain.",5,,,,natural
+512,Laguna Veneta,"Venice, Italy",5,45.356210795666804 12.273570921757564,Laguna Veneta refers to the vast lagoon surrounding the city of Venice. It is a unique natural ecosystem with a diverse range of flora and fauna.,3,,,,natural
+513,Parco San Francesco della Vigna,"Castello, 30122 Venice, Italy",5,45.44443782028774 12.323853752195813,"Parco San Francesco della Vigna is a historic park located in the Castello district. It features well-manicured gardens, ancient trees, and a peaceful atmosphere.",2,,,,natural
+514,Isola di San Pietro,"Venice, Italy",5,45.434482363194924 12.360037701543943,Isola di San Pietro is a picturesque island situated in the Venetian lagoon. It offers a tranquil escape from the city's crowds.,4,,,,natural
+515,Parco San Giacomo dell'Orio,"Santa Croce, 30135 Venice, Italy",5,45.443143269104496 12.327772920464284,"Parco San Giacomo dell'Orio is a lovely park located in the Santa Croce district. It features open green spaces, shady trees, and a central square.",2,,,,natural
+516,Parco Papadopoli,"Santa Croce, 30135 Venice, Italy",5,45.43984756599932 12.320772556582982,"Parco Papadopoli is a charming park situated in the Santa Croce district. It features well-maintained gardens, tree-lined paths, and a central fountain.",2,,,,natural
+517,Isola di San Michele,"Venice, Italy",5,45.4467254272434 12.34676706396202,"Isola di San Michele is a small island in the Venetian lagoon. It serves as the main cemetery of Venice, known for its serene atmosphere and beautiful funerary art.",4,,,,natural
+518,Parco Bissuola,"Via Alvise Cadamosto, 30173 Mestre, Venice, Italy",5,45.499703990888875 12.266267326331747,"Parco Bissuola is a large park located in the Mestre district. It offers extensive green spaces, walking paths, and sports facilities. The park is a great place for outdoor activities.",3,,,,natural
+519,Punta della Dogana,"Dorsoduro, 30123 Venice, Italy",5,45.4311132123022 12.336907897491246,"Punta della Dogana is a prominent point in the Dorsoduro district of Venice. It offers stunning panoramic views of the city, including the Grand Canal and the surrounding islands.",3,,,,natural
+520,Parco Albanese,"Via Francesco Baracca, 30174 Mestre, Venice, Italy",5,45.49975663072412 12.266181495645982,"Parco Albanese is a spacious park situated in the Mestre district. It features lush green areas, walking trails, and recreational facilities.",2,,,,natural
+521,Isola di Burano,"Venice, Italy",5,45.48573522163991 12.416705333287123,Isola di Burano is a colorful island located in the Venetian lagoon. It is known for its vibrant houses and lace-making tradition. ,2,,,,natural
+522,Mount Vesuvius,Arno Islands (Near Florence),4,43.833901714332484  11.002319543640752," A group of small islands in the Arno River, offering tranquil green spaces and beautiful natural views.",2,,,,natural
+523,Capri Island,Parco Nazionale di Vallombrosa (Near Reggello),4,43.73341669757307  11.554358036814268," A natural reserve known for dense forests, stunning landscapes, and beautiful hiking trails.",4,,,,natural
+524,Amalfi Coast,Lake Bilancino (Near Barberino di Mugello),4,43.98168778877407  11.26934898476147," A picturesque lake surrounded by hills, offering opportunities for water sports, picnicking, and relaxation.",2,,,,natural
+525,Positano,Mugello Region (North of Florence) ,4,43.95101268605907  11.399728286547493," A scenic area known for its rolling hills, charming villages, and natural beauty, perfect for leisurely drives or bike rides.",5,,,,natural
+526,Pompeii,Mount Falterona (Near Stia),4,43.87503343499283  11.696444103191356," A mountain in the Casentino Forests, providing hiking trails, panoramic views, and the source of the Arno River.",3,,,,natural
+527,Herculaneum,Parco Naturale delle Foreste Casentinesi (Casentino Forests) ,4,43.957023590052835 11.735273825341345,"A national park with ancient forests, wildlife, and numerous hiking trails, including the famous Camaldoli Hermitage.",2,,,,natural
+528,Phlegraean Fields (Campi Flegrei,Montalbano Hills (West of Florence),4,43.8667044892783 10.867802581394493,"A hilly area with olive groves, vineyards, and charming medieval villages, offering panoramic views of the surrounding countryside.",3,,,,natural
+529,Procida Island:,Mugello Circuit (Near Scarperia) ,4,43.99612051658606  11.371060867671842,"A world-renowned racetrack surrounded by green hills, hosting international motorsport events and offering driving experiences.",4,,,,natural
+530,Ischia Island,Parco di Montececeri (Fiesole) ,4,43.79415923726827  11.304049281152377,"A park located on Montececeri hill, known for its walking paths, picnic areas, and stunning views of the city of Florence.",4,,,,natural
+531,Sorrento Peninsula,Boboli Gardens (Piazza de' Pitti) ,4,43.76265988950077 11.248356681150524,"Historic gardens behind the Pitti Palace, featuring beautiful landscaping, sculptures, and panoramic views.",5,,,,natural
+532,Naples Botanical Garden (Orto Botanico di Napoli),"Giardino Bardini (Costa San Giorgio, 2)",4,43.76408609908387  11.256138309986481," Renaissance-style garden with terraces, statues, and stunning views of Florence.",4,,,,natural
+533,Baia Underwater Archaeological Park,Cascine Park (Viale degli Olmi) ,4,43.783235821378135 11.216730785980964," Large public park along the Arno River, perfect for picnics, walking, and cycling.",4,,,,natural
+534,Vesuvius National Park,"Villa Demidoff Park (Via Fiorentina, 276)",4,43.85987754533808  11.30358570999208,Park located outside Florence featuring a monumental statue of Colosso dell'Appennino.,5,,,,natural
+535,Grotta dello Smeraldo (Emerald Grotto),"Fiesole (Via San Francesco, 18) ",4,43.80008570020767  11.290840521782494,"Picturesque town on a hilltop near Florence, offering stunning views of the city and the surrounding countryside.",2,,,,natural
+536,Villa Doria d'Angri Park,Monte Ceceri (Fiesole),4,43.797947940087155  11.303797627224053,Hill known for its beautiful hiking trails and panoramic views of Florence and the Tuscan landscape.,5,,,,natural
+537,Parco Virgiliano,Piazzale Michelangelo (Viale Michelangelo) ,4,43.76255680165892  11.264898209986455,Square with a bronze replica of Michelangelo's David and a terrace offering breathtaking views of Florence.,4,,,,natural
+538,Astroni Crater Nature Reserve,Parco delle Cascine (Viale degli Olmi) ,4,43.78294295081655  11.21690066765942,"Large park with walking paths, sports facilities, and a riverside promenade along the Arno River.",2,,,,natural
+539,Piazza del Plebiscito,"Parco di Villa Strozzi (Via Pisana, 37) ",4,43.77249261552232  11.230333025330612,"Historic park with beautiful gardens, woods, and a pond, perfect for a peaceful stroll.",3,,,,natural
+540,Naples Underground (Napoli Sotterranea),Parco della Villa Fabbricotti (Via Vittorio Emanuele II),4,44.74633952816351  10.599106936010577," Park with lush greenery, a lake, and walking trails, providing a tranquil escape in the city.",5,,,,natural
+541,Villa Floridiana,Parco delle Cascine di Tavola (Reggello) ,4,43.846466421590144 11.0618133099913,"Nature reserve located outside Florence, known for its forests, hiking trails, and scenic beauty.",4,,,,natural
+542,Hotel Quirinale,"Via Nazionale 7, Central Station, 00184 Rome, Italy",1,41.90182202037885 12.494873553074376,,,5,,200,hotel
+543,Hotel Hassler Roma,"Piazza della Trinita dei Monti, 6, 00187 Rome, Italy",1,41.906092743874524 12.484043924238929,,,3,,90,hotel
+544,The St. Regis Rome,"Via Vittorio Emanuele Orlando, 3, 00185 Rome, Italy",1,41.90416749222035 12.49482998006026,,,2,,50,hotel
+545,"Rome Cavalieri, A Waldorf Astoria Hotel","Via Alberto Cadlolo, 101, 00136 Rome, Italy",1,41.918979375018125 12.446569334032556,,,5,,150,hotel
+546,Palazzo Manfredi,"Via Labicana, 125, 00184 Rome, Italy",1,41.89034133388365 12.495560980059329,,,3,,120,hotel
+547,Hotel Eden - Dorchester Collection,"Via Ludovisi, 49, 00187 Rome, Italy",1,41.90679538161047 12.486303322388942,,,5,,250,hotel
+548,Gran MeliÌÁ Rome Villa Agrippina,"Via del Gianicolo, 3, 00165 Rome, Italy",1,41.89915022839809 12.461118495402745,,,4,,200,hotel
+549,Hotel de Russie - Rocco Forte,"Via del Babuino, 9, 00187 Rome, Italy",1,41.91011114243399 12.477447366567763,,,5,,80,hotel
+550,Grand Hotel de la Minerve,"Piazza della Minerva, 69, 00186 Rome, Italy",1,41.89778220180332 12.477604995402661,,,4,,120,hotel
+551,The Westin Excelsior Rome,"Via Vittorio Veneto, 125, 00187 Rome, Italy",1,41.907870017589 12.490085824239056,,,4,,400,hotel
+552,Boscolo Exedra,"Piazza della Repubblica, 47, 00185 Rome, Italy",1,41.9026154377316 12.495568191110168,,,3,,100,hotel
+553,Hotel de Ricci,"Via della Barchetta, 14, 00186 Rome, Italy",1,41.89626312055495 12.468818281909737,,,5,,90,hotel
+554,Hotel Raphael - Relais & ChÌ¢teaux,"Largo Febo, 2, 00186 Rome, Italy",1,41.900151982199965 12.472093695402847,,,4,,140,hotel
+555,Hotel Indigo Rome - St. George,"Via Giulia, 62, 00186 Rome, Italy",1,41.898346501687016 12.4661624800598,,,4,,240,hotel
+556,The First Roma Dolce,"Via del Vantaggio, 14, 00186 Rome, Italy",1,41.90759668388538 12.477888085839808,,,5,,350,hotel
+557,Hotel Artemide,"Via Nazionale, 22, 00184 Rome, Italy",1,41.901473378399785 12.493354288002738,,,4,,250,hotel
+558,Aleph Rome Hotel,"Via di San Basilio, 15, 00187 Rome, Italy",1,41.90547539981711 12.489989651224544,,,3,,100,hotel
+559,iQ Hotel Roma,"Via Firenze, 8, 00184 Rome, Italy",1,41.90063451071497 12.495210880059954,,,4,,200,hotel
+560,Hotel Locarno,"Via della Penna, 22, 00186 Rome, Italy",1,41.90980551499586 12.47472659540348,,,4,,300,hotel
+561,Hotel Vilon,"Via dell'Arancio, 69, 00186 Roma RM, Italy",1,41.9059421938531 12.476676105313542,,,5,,350,hotel
+562,Hotel Splendide Royal,"Via di Porta Pinciana, 14, 00187 Rome, Italy",1,41.90809521694122 12.486773281910532,,,4,,140,hotel
+563,Hotel Adriano,"Via di Pallacorda, 2, 00186 Rome, Italy",1,41.90228219233538 12.475510480060118,,,3,,250,hotel
+564,Hotel Quattro Fontane,"Via delle Quattro Fontane, 16, 00184 Rome, Italy",1,41.90023416969737 12.499937249907134,,,3,,200,hotel
+565,Hotel Isa,"Via Cicerone, 39, 00193 Rome, Italy",1,41.907065335168696 12.468977924238992,,,5,,150,hotel
+566,Hotel Santa Maria,"Vicolo del Piede, 2, 00153 Roma RM, Italy",1,41.891722104369606 12.47041029886061,,,2,,100,hotel
+567,Hotel San Anselmo,"Piazza SantAnselmo, 2, 00153 Rome, Italy",1,41.882233500795216 12.479393637730261,,,2,,80,hotel
+568,Hotel Forum,"Via Tor de Conti, 25-30, 00184 Rome, Italy",1,41.894095170853824 12.487707424238144,,,3,,150,hotel
+569,Hotel Majestic Roma,"Via Vittorio Veneto, 50, 00187 Rome, Italy",1,41.90570918419164 12.48778916471744,,,5,,350,hotel
+570,Hotel Ponte Sisto,"Via dei Pettinari, 64, 00186 Rome, Italy",1,41.8934933775578 12.472037672116816,,,4,,200,hotel
+571,Hotel Mozart,"Via dei Greci, 23, 00187 Rome, Italy",1,41.90790507870516 12.477850548149615,,,4,,150,hotel
+572,"Four Seasons Hotel Milano 1","Via Gesu, 6/8, 20121 Milano MI, Italy",2,45.4692189063453 9.195258206708136,,,5,,50,hotel
+573,Baglioni Hotel Carlton,"Via Senato, 5",2,45.47292694643953 9.192488517486964,,,4,,150,hotel
+574,Armani Hotel," Via Manzoni, 31",2,45.4707174004707 9.19288253554521,,,5,,120,hotel
+575,Grand Hotel et de Milan ," Via Manzoni, 29",2,45.47000892541901 9.192433162539787,,,5,,250,hotel
+576,The Westin Palace,"Piazza della Repubblica, 20",2,45.478795894235176 9.199260922058958,,,4,,200,hotel
+577,Bulgari Hotel Milan,"Via Privata Fratelli Gabba, 7/B",2,45.470010465030136 9.189530535542609,,,5,,80,hotel
+578,Hotel Principe di Savoia,"Piazza della Repubblica, 17",2,45.48410826577781 9.197782925717764,,,4,,120,hotel
+579,ME Milan Il Duca," Piazza della Repubblica, 13",2,45.47949634477958 9.196094717926911,,,5,,400,hotel
+580,NH Collection Milano President," Largo Augusto, 10",2,45.46331771021254 9.197736218528945,,,3,,100,hotel
+581,Rosa Grand Milano," Piazza Fontana, 3",2,45.46397430674375 9.19401588124518,,,3,,90,hotel
+582,Excelsior Hotel Gallia,"Piazza Duca d'Aosta, 9",2,45.48593476971682 9.201355440750017,,,4,,140,hotel
+583,Sheraton Milan Malpensa Hotel,Aeroporto Malpensa 2000,2,45.62762814690808 8.711160620236834,,,4,,240,hotel
+584,Hotel Milano Scala," Via dell'Orso, 7",2,45.469344926070406 9.1867449397892,,,5,,350,hotel
+585,Hotel Principe Di Savoia,"Piazza della Repubblica, 17",2,45.48262574457176 9.196575528394675,,,4,,250,hotel
+586,Room Mate Giulia," Via Silvio Pellico, 4",2,45.4656118269547 9.189569867335985,,,3,,100,hotel
+587,Hotel Manin,"Via Manin, 7",2,45.47413633962939 9.195885902177052,,,4,,200,hotel
+588,Hotel VIU Milan,"Via Aristotile Fioravanti, 6",2,45.48358472501871 9.177702710453234,,,4,,300,hotel
+589,NH Milano Touring,"Via Ugo Tarchetti, 2",2,45.47704118369528 9.196511518383016,,,5,,350,hotel
+590,Uptown Palace," Via Santa Sofia, 10",2,45.457745592531495 9.191981835581872,,,4,,140,hotel
+591,UNAHOTELS Cusani Milano," Via Cusani, 13",2,45.468816293964956 9.18345920354451,,,3,,250,hotel
+592,Hotel Dei Cavalieri," Piazza Giuseppe Missori, 1",2,45.46119844180991 9.188696577909345,,,3,,200,hotel
+593,Hotel Pierre Milano,"Via De Amicis, 32",2,45.459695370787884 9.17684558335797,,,3,,150,hotel
+594,Hotel Magna Pars,"Via Forcella, 6",2,45.45359793734293 9.166845211062736,,,2,,100,hotel
+595,Hotel Straf ," Via San Raffaele, 3",2,45.465504002334434 9.191000785744498,,,2,,80,hotel
+596,Hotel Milano Navigli," Alzaia Naviglio Grande, 8",2,45.4535074540873 9.18053673342967,,,3,,150,hotel
+597,Hotel VIU Milan," Via Aristotile Fioravanti, 6",2,45.48347941506482 9.177380845365473,,,5,,350,hotel
+598,NYX Hotel Milan," Piazza Quattro Novembre, 3",2,45.48729333072683 9.201819679763164,,,4,,200,hotel
+599,B&B Hotel Milano San Siro,"Via Achille Zezon, 6",2,45.480704191177196 9.123438396614663,,,3,,150,hotel
+600,Grand Hotel Vesuvio," Via Partenope, 45, 80121 Naples NA, Italy.",3,40.8380872423375  14.251142580360971,,,2,,50,hotel
+601,Romeo Hotel,"Via Cristoforo Colombo, 45, 80133 Naples NA, Italy.",3,40.8415235847282  14.255424027913602,,,4,,150,hotel
+602,Hotel Excelsior,"Via Partenope, 48, 80121 Naples NA, Italy",3,40.83017537722135  14.249590309849587,,,3,,120,hotel
+603,Eurostars Hotel Excelsior,"Via Partenope, 48, 80121 Naples NA, Italy.",3,40.83013287961239  14.24959166980103,,,5,,250,hotel
+604,UNAHOTELS Napoli," Piazza Giuseppe Garibaldi, 9/10, 80142 Naples NA, Italy.",3,40.85190701664029  14.267408565670854,,,4,,200,hotel
+605,Palazzo Caracciolo Napoli,"Via Partenope, 38/44, 80121 Naples NA, Italy.",3,40.85497359566896  14.261410152178977,,,3,,80,hotel
+606,Grand Hotel Parker's,"at Corso Vittorio Emanuele, 135, 80121 Naples NA, Italy.",3,40.837277130965525  14.22995420984997,,,4,,120,hotel
+607,Hotel Piazza Bellini,"Via Santa Maria di Costantinopoli, 101, 80138 Naples NA, Italy.",3,40.85065983457499  14.251679781014692,,,5,,400,hotel
+608,Hotel San Francesco al Monte,"Corso Vittorio Emanuele, 328, 80135 Naples NA, Italy.",3,40.84348264951901  14.244504896358173,,,3,,100,hotel
+609,Palazzo Alabardieri," Via Alabardieri, 38, 80121 Naples NA, Italy.",3,40.83948384215477  14.248806140537877,,,3,,90,hotel
+610,Hotel Santa Brigida,"Via Santa Brigida, 6, 80132 Naples NA, Italy.",3,40.839475725311566  14.248752496357996,,,4,,140,hotel
+611,Renaissance Naples Hotel Mediterraneo,"Via Ponte di Tappia, 25, 80133 Naples NA, Italy.",3,40.841184154304585  14.25057653868617,,,4,,240,hotel
+612,Palazzo Salgar,"Via dei Mille, 64, 80121 Naples NA, Italy.",3,40.846400339537716  14.263999681014445,,,5,,350,hotel
+613,Grand Hotel Oriente," Via Armando Diaz, 44, 80134 Naples NA, Italy.",3,40.84267343473535  14.25024925403015,,,4,,250,hotel
+614,Hotel San Pietro," Via San Pietro ad Aram, 18, 80138 Naples NA, Italy.",3,40.86655360560546  14.264098590590391,,,3,,100,hotel
+615,Hotel Paradiso,"Via Ottavio Tupputi, 9, 80139 Napoli NA, Italy",3,40.84686993722129 14.207105328101061,,,4,,200,hotel
+616,Hotel Palazzo Esedra," Piazza Giovanni Bovio 22, near the central train station.",3,40.83513338990712  14.24949648427931,,,4,,300,hotel
+617,Hotel Cavour, Situated in the historic center at Piazza Garibaldi 32.,3,40.8531982444697  14.26837422334287,,,5,,350,hotel
+618,Hotel Micalo,"Riviera di Chiaia 88, close to the waterfront and Castel dell'Ovo.",3,40.833002371336825  14.2269902810137,,,4,,140,hotel
+619,Hotel Albergo del Golfo," Via Sedile di Porto 23, offering views of the Gulf of Naples.",3,40.84468817945561  14.255018396358246,,,3,,250,hotel
+620,Hotel Piazza Bellini & Apartments,"Via S. Maria di Costantinopoli 101, near Piazza Bellini.",3,40.85065983457499  14.251744154030545,,,3,,200,hotel
+621,Hotel Piazza Bellini & Apartments," Via S. Maria di Costantinopoli 101, near Piazza Bellini.",3,40.85064360362496  14.2517656117025,,,3,,150,hotel
+622,Hotel San Francesco,"at Corso Umberto I 104, in a former monastery in the historic center.",3,40.84344206774152  14.24448343868621,,,2,,100,hotel
+623,B&B Hotel,"P.za Giuseppe Garibaldi, 32, 80142 Napoli NA, Italy",3,40.85418564145672 14.267898931865965,,,2,,80,hotel
+624,Grand Hotel Vesuvio,"Via Partenope, 45, 80121 Napoli NA, Italy",3,40.83135039491359 14.24801363748908,,,3,,150,hotel
+625,Hotel Royal Prisco,"Via Posillipo 394, in the picturesque neighborhood of Posillipo.",3,40.63045456489176 14.484690367510648,,,5,,350,hotel
+626,Hotel Miramare,"Via Nazario Sauro 24, in the Mergellina neighborhood, overlooking the sea.",3,40.8345205563515  14.250919591906811,,,4,,200,hotel
+627,Hotel Nuvo," Nuova Agnano 5, in the Fuorigrotta district, close to sports facilities and exhibition centers.",3,40.81729995220598  14.175692428825293,,,3,,150,hotel
+628,Hotel Monaco & Grand Canal,"P.za San Marco, 1332/1238, 30100 Venezia VE, Italy",5,45.43247376656437 12.33693429312769,,,4,,300,hotel
+629,Aman Venice,"Calle Tiepolo, 1364, 30125 Venezia VE, Italy",5,45.4370591312262 12.331537896157487,,,5,,400,hotel
+630,Hilton Molino Stucky Venice,"Giudecca, 810, 30133 Venezia VE, Italy",5,45.42832807795654 12.320250184514691,,,5,,400,hotel
+631,Palazzo Veneziano,"Fondamenta Zattere Al Ponte Lungo, 1413, 30123 Venezia VE, Italy",5,45.430805278570915 12.322806326843253,,,5,,500,hotel
+632,Canal Grande Hotel,"Campiello S. Simeone Grande, 932, 30135 Venezia VE, Italy",5,45.441545457789296 12.324089499857577,,,4,,180,hotel
+633,Hotel NH Venezia Santa Lucia,"Rio Tera Lista di Spagna, 116/A, 30121 Venezia VE, Italy",5,45.44206486970939 12.322694751213914,,,4,,100,hotel
+634,Hotel Metropole,"Riva degli Schiavoni, 4149, 30122 Venezia VE, Italy",5,45.43416579309345 12.345199798007531,,,4,,200,hotel
+635,Rialto Unique Venice Experience,"Riva del Ferro, 5149, 30124 Venezia VE, Italy",5,45.437810685697734 12.336145957529016,,,3,,120,hotel
+636,Splendid Venice - Starhotels Collezione,"Mercerie, 760, 30124 Venezia VE, Italy",5,45.4362974887801 12.337454875486914,,,5,,140,hotel
+637,Hotel Papadopoli Venezia - MGallery,"Santa Croce 245, Giardini Papadopoli, 30135 Venezia VE, Italy",5,45.43810234176103 12.321170597292884,,,5,,380,hotel
+638,NH Collection Venezia Grand Hotel Palazzo dei Dogi,"Fondamenta Madona de l'Orto, 3500, 30121 Venezia VE, Italy",5,45.44677228053236 12.330962044553909,,,4,,250,hotel
+639,Hotel Ai Reali,"Calle Seconda de la Fava, 5527, 30122 Venezia VE, Italy",5,45.43717152208364 12.337866866196691,,,3,,150,hotel
+640,Hotel Abbazia,"Calle Priuli dei Cavaletti, 68, 30121 Venezia VE, Italy",5,45.442102867144534 12.321713271093067,,,4,,250,hotel
+641,Hotel Carlton on the Grand Canal,"Fondamenta del Monastero, 578, 30135 Venezia VE, Italy",5,45.44003986955301 12.322072850853809,,,4,,400,hotel
+642,Venezia Palazzo Barocci,"Corte de l'Albero, 3878 A, 30124 Venezia VE, Italy",5,45.43547811055205 12.330291920168044,,,5,,400,hotel
+643,Hotel Santa Chiara,"Santa Croce, 30135 Venezia VE, Italy",5,45.438603807157115 12.31954045760023,,,4,,300,hotel
+644,Hotel Principe,"Rio Tera Lista di Spagna, 146, 30121 Venezia VE, Italy",5,45.4421781223947 12.323493855750185,,,4,,250,hotel
+645,Hotel Saturnia & International Venezia,"Calle Larga XXII Marzo, 2398, 30124 Venezia VE, Italy",5,45.43289384260228 12.334244324348854,,,5,,200,hotel
+646,Al Ponte Antico,"Calle Aseo, 5768, 30125 Venezia VE, Italy",5,45.43883280090976 12.336442082191128,,,5,,150,hotel
+647,Ca 'Nigra Lagoon Resort,"Campiello S. Simeone Grande, 927, 30135 Venezia VE, Italy",5,45.44101194059503 12.324149029606392,,,4,,200,hotel
+648,Hotel Florida,"Calle Priuli dei Cavaletti, 106/A, 30121 Venezia VE, Italy",5,45.44192055891206 12.32209129992879,,,4,,180,hotel
+649,Hotel Royal San Marco,"S. Marco, 848, 30124 Venezia VE, Italy",5,45.43469546179546 12.337708262496605,,,3,,100,hotel
+650,Duodo Palace Hotel,"San Marco, Calle Minelli 1887-1888, 30124 Venezia VE, Italy",5,45.43445400477284 12.333902955750185,,,4,,150,hotel
+651,UNAHOTELS Ala Venezia,"Campo Santa Maria del Giglio, 2494, 30124 Venezia VE, Italy",5,45.43241607190943 12.332712528764507,,,5,,250,hotel
+652,Aqua Palace Hotel,"Calle de la Malvasia, 5492, 30122 Venezia VE, Italy",5,45.436656701907665 12.33859571527167,,,4,,250,hotel
+653,Hotel Antiche Figure,"Santa Croce, 687 Fondamenta San Simeon Piccolo, 30135 Venezia VE, Italy",5,45.440310952992455 12.322079806675207,,,3,,100,hotel
+654,Hotel Monaco & Grand Canal,"P.za San Marco, 1332/1238, 30100 Venezia VE, Italy",5,45.43240380090029 12.336923042257345,,,4,,200,hotel
+655,Hilton Molino Stucky,"Giudecca, 810, 30133 Venezia VE, Italy",5,45.428284783274904 12.320282371093064,,,5,,500,hotel
+656,Hotel Iris,"Campo S. Toma, 2910, 30125 Venezia VE, Italy",5,45.43626333767644 12.32633957668725,,,2,,50,hotel
+657,Corte Canal Venice,"Corte Canal, 645a, 30135 Venezia VE, Italy",5,45.439906989046 12.324022148171627,,,2,,60,hotel
+658,Hotel Brunelleschi," Piazza Santa Elisabetta 3, Florence",4,43.77187866442428  11.255716352315137,,,2,,50,hotel
+659,Hotel Savoy,"Piazza della Repubblica 7, Florence",4,43.772025669440794  11.254535938822873,,,4,,150,hotel
+660,Portrait Firenze," Lungarno degli Acciaiuoli 4, Florence",4,43.76909262565899  11.252768552315045,,,3,,120,hotel
+661,Hotel Lungarno,"Borgo San Jacopo 14, Florence",4,43.7680979036615  11.251519862780485,,,5,,250,hotel
+662,Hotel Continentale,"Vicolo dell'Oro 6R, Florence",4,43.768992081541775 11.253466611838112,,,4,,200,hotel
+663,Hotel Bernini Palace,"Piazza di San Firenze 29, Florence",4,43.7693921759225  11.25760419649448,,,3,,80,hotel
+664,Four Seasons Hotel Firenze," Borgo Pinti 99, Florence",4,43.77710327716274  11.266366038823241,,,4,,120,hotel
+665,Hotel degli Orafi," Lungarno degli Archibusieri 4, Florence",4,43.76825433538948  11.254589283002199,,,5,,400,hotel
+666,Hotel Ville sull'Arno,"Lungarno Cristoforo Colombo 1, Florence",4,43.765909947936315  11.284702267658414,,,3,,100,hotel
+667,The St. Regis Florence," Piazza Ognissanti 1, Florence",4,43.77259716426933  11.24498097150814,,,3,,90,hotel
+668,Hotel Mulino di Firenze,"Via Villamagna 119, Florence",4,43.76251869875749  11.317015969509528,,,4,,140,hotel
+669,Hotel Degli Artisti," Via del Giglio 87, Florence",4,43.777188844213555 11.242873688847778,,,4,,240,hotel
+670,J.K. Place Firenze,"Piazza Santa Maria Novella 7, Florence",4,43.77303403117064  11.249815425330596,,,5,,350,hotel
+671,Hotel Santa Maria Novella," Piazza Santa Maria Novella 1, Florence",4,43.77354721279  11.250084709987073,,,4,,250,hotel
+672,Hotel Torre Guelfa,"Borgo Santi Apostoli 8, Florence",4,43.769355333107605  11.252901983002284,,,3,,100,hotel
+673,Hotel Palazzo Vecchio," Via Solferino 2, Florence",4,43.77802326863081 11.249934796495001,,,4,,200,hotel
+674,Hotel Albani Firenze,"Via Fiume 12, Florence",4,43.777285237050485 11.25007129279237,,,4,,300,hotel
+675,NH Collection Firenze Porta Rossa,"Via Porta Rossa 19, Florence",4,43.77024927877319 11.252006254166389,,,5,,350,hotel
+676,Hotel Rivoli,": Via della Scala 33, Florence",4,43.77436617573765  11.247264667658953,,,4,,140,hotel
+677,Hotel Balestri,"Piazza Mentana 7, Florence",4,43.76733464150673 11.257967496494427,,,3,,250,hotel
+678,Hotel Cerretani Firenze - MGallery by Sofitel,"Via de' Cerretani 10, Florence",4,43.77375053574843  11.252279580099493,,,3,,200,hotel
+679,Hotel Home Florence,"Piazza Piave 3, Florence",4,43.76698064214859 11.268039956017486,,,3,,150,hotel
+680,Hotel L'Orologio," Piazza Santa Maria Novella 24, Florence",4,43.77363602423512  11.250259225330653,,,2,,100,hotel
+681,Hotel Spadai," Via dei Martelli 10, Florence",4,43.77535387810771  11.255842275212544,,,2,,80,hotel
+682,Hotel Calzaiuoli,"Via Calzaiuoli 6, Florence",4,43.77144608141184  11.255318852315126,,,3,,150,hotel
+683,Hotel degli Orafi,"Lungarno degli Archibusieri 4, Florence",4,43.768269830908004  11.254546367658591,,,5,,350,hotel
+684,Hotel Loggiato dei Serviti," Piazza Santissima Annunziata 3, Florence",4,43.77677915109262  11.259993496494953,,,4,,200,hotel
+685,Hotel Tornabuoni Beacci,"Via de' Tornabuoni 3, Florence",4,43.77051305810226  11.25123852533046,,,3,,150,hotel
