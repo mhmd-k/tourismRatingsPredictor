@@ -102,8 +102,6 @@ def predict():
 
     user = request.get_json()
 
-    print("user: ", user)
-
     gender = label_encoder_gender.transform([user["gender"]])
     country = label_encoder_country.transform([user["country"]])
 
@@ -160,19 +158,66 @@ def predict():
     p_sorted.rename(columns={"predicted_rating": "predictedRating"}, inplace=True)
     p_sorted.rename(columns={"place_type": "placeType"}, inplace=True)
 
-    needed_df = pd.DataFrame()
-    needed_df["id"] = p_sorted["id"]
-    needed_df["name"] = p_sorted["name"]
-    needed_df["placeType"] = p_sorted["placeType"]
-    needed_df["cityName"] = p_sorted["cityName"]
-    needed_df["predictedRating"] = p_sorted["predictedRating"]
-    needed_df["time"] = p_sorted["time"].fillna(0)
-    needed_df["foodType"] = p_sorted["food type"].fillna(0)
+    # Filter for restaurants only
+    restaurant_df = p_sorted[p_sorted["placeType"] == "restaurant"]
+    # Sort by average rating in descending order
+    top_restaurants = restaurant_df.sort_values(by="avgRating", ascending=False)
+    # Select the top 2 restaurants
+    top_2_restaurants = top_restaurants.fillna(0).head(2)
 
-    needed_df = needed_df.fillna(0)
+    # Filter for hotels only
+    hotel_df = p_sorted[p_sorted["placeType"] == "hotel"]
+    top_hotels = hotel_df.sort_values(by="avgRating", ascending=False)
+    top_2_hotels = top_hotels.head(2)
+
+    # Filter for night places only
+    night_df = p_sorted[p_sorted["placeType"] == "night"]
+    top_night_places = night_df.sort_values(by="avgRating", ascending=False)
+    top_2_night_places = top_night_places.head(2)
+
+    # Filter for old places only
+    old_df = p_sorted[p_sorted["placeType"] == "old"]
+    top_old_places = old_df.sort_values(by="avgRating", ascending=False)
+    top_2_old_places = top_old_places.head(2)
+
+    # Filter for natural places only
+    natural_df = p_sorted[p_sorted["placeType"] == "natural"]
+    top_natural_places = natural_df.sort_values(by="avgRating", ascending=False)
+    top_2_natural_places = top_natural_places.head(2)
+
+    # Filter for natural places only
+    shopping_df = p_sorted[p_sorted["placeType"] == "shopping"]
+    top_shopping_places = shopping_df.sort_values(by="avgRating", ascending=False)
+    top_2_shopping_places = top_shopping_places.head(2)
+
+    # Combine the top 2 restaurants and top 2 hotels and ...
+    top_places = pd.concat(
+        [
+            top_2_restaurants,
+            top_2_hotels,
+            top_2_night_places,
+            top_2_old_places,
+            top_2_natural_places,
+            top_2_shopping_places,
+        ]
+    )
+
+    print(top_places.columns)
+
+    # Prepare the final JSON response
+    response_df = pd.DataFrame()
+    response_df["id"] = top_places["id"]
+    response_df["name"] = top_places["name"]
+    response_df["placeType"] = top_places["placeType"]
+    response_df["cityName"] = top_places["cityName"]
+    response_df["predictedRating"] = top_places["predictedRating"]
+    response_df["time"] = top_places["time"].fillna(0)
+    response_df["foodType"] = top_places["food type"].fillna(0)
+
+    response_df = response_df.fillna(0)
 
     # Return the predictions as a JSON response
-    return jsonify(needed_df.to_dict(orient="records"))
+    return jsonify(response_df.to_dict(orient="records"))
 
 
 # .venv\Scripts\activate
